@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sa_001",
+    "situation": "You see a wire hanging from a power pole.",
+    "safe_action": "Stay away and report to the electricity board.",
+    "reasoning": "Touching a live wire can cause electrocution."
+  },
+  {
+    "id": "sa_002",
+    "situation": "You're walking alone at night in an unknown area.",
+    "safe_action": "Stick to well-lit streets and call someone you trust.",
+    "reasoning": "Being visible and connected reduces risk of harm."
+  },
+  {
+    "id": "sa_003",
+    "situation": "You smell gas inside your home.",
+    "safe_action": "Open windows, avoid turning on lights, and call for help.",
+    "reasoning": "Sparking electricity can ignite leaking gas."
+  }
+]

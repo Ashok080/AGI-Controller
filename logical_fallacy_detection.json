@@ -1,0 +1,28 @@
+[
+  {
+    "id": "lf_001",
+    "argument": "If we allow kids to play video games, next they'll want to drop out of school and play all day!",
+    "fallacy_type": "Slippery Slope",
+    "question": "What type of logical fallacy is this?",
+    "options": [
+      "Ad Hominem",
+      "Strawman",
+      "Slippery Slope",
+      "Appeal to Authority"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": "lf_002",
+    "argument": "You shouldn't listen to his opinion on politics\u2014he can't even cook.",
+    "fallacy_type": "Ad Hominem",
+    "question": "What type of logical fallacy is this?",
+    "options": [
+      "False Cause",
+      "Ad Hominem",
+      "Bandwagon",
+      "Red Herring"
+    ],
+    "answer": "Ad Hominem"
+  }
+]

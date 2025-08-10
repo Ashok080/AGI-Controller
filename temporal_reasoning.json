@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tr_001",
+    "event_1": "The alarm rang.",
+    "event_2": "She woke up.",
+    "temporal_relation": "The alarm rang before she woke up."
+  },
+  {
+    "id": "tr_002",
+    "event_1": "It started raining.",
+    "event_2": "We left the park.",
+    "temporal_relation": "We left the park after it started raining."
+  },
+  {
+    "id": "tr_003",
+    "event_1": "The show was running.",
+    "event_2": "We entered the theatre.",
+    "temporal_relation": "We entered the theatre during the show."
+  }
+]

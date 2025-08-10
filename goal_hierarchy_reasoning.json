@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ghr_001",
+    "goal": "Prepare for a job interview",
+    "subgoals": [
+      "Research the company",
+      "Update your resume",
+      "Practice common interview questions",
+      "Plan your outfit",
+      "Get enough rest the night before"
+    ],
+    "reasoning": "Each subgoal contributes to performing well during the interview."
+  },
+  {
+    "id": "ghr_002",
+    "goal": "Cook dinner",
+    "subgoals": [
+      "Decide on a recipe",
+      "Gather ingredients",
+      "Prepare ingredients",
+      "Cook the dish",
+      "Serve the meal"
+    ],
+    "reasoning": "The sequence ensures dinner is made efficiently and successfully."
+  }
+]

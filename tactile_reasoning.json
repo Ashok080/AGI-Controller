@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tr_001",
+    "situation": "A child touches a rough surface like sandpaper.",
+    "question": "What does the child likely feel?",
+    "answer": "A rough, scratchy sensation.",
+    "reasoning_type": "tactile reasoning"
+  },
+  {
+    "id": "tr_002",
+    "situation": "You press a soft pillow with your hand.",
+    "question": "What is the tactile response?",
+    "answer": "It feels soft and compresses under pressure.",
+    "reasoning_type": "tactile reasoning"
+  },
+  {
+    "id": "tr_003",
+    "situation": "You walk barefoot on hot pavement.",
+    "question": "How does it feel?",
+    "answer": "Uncomfortably hot or even painful.",
+    "reasoning_type": "tactile reasoning"
+  }
+]

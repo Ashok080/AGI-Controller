@@ -1,0 +1,16 @@
+[
+  {
+    "id": "vc_001",
+    "scene": "A ball rolls down a ramp and hits a stack of blocks, which then fall.",
+    "question": "What caused the blocks to fall?",
+    "answer": "The ball hitting the stack",
+    "reasoning": "The motion of the ball led to a direct collision with the blocks, triggering the collapse."
+  },
+  {
+    "id": "vc_002",
+    "scene": "A cat jumps onto a shelf, knocking over a vase.",
+    "question": "Why did the vase fall?",
+    "answer": "Because the cat knocked it over",
+    "reasoning": "The cat\u2019s jump led to unintended contact with the vase, causing it to fall."
+  }
+]

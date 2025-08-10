@@ -1,0 +1,38 @@
+[
+  {
+    "id": "an_001",
+    "analogy": "Bird is to Air as Fish is to ____?",
+    "options": [
+      "Land",
+      "Water",
+      "Tree",
+      "Fire"
+    ],
+    "answer": "Water",
+    "reasoning_type": "analogy"
+  },
+  {
+    "id": "an_002",
+    "analogy": "Hand is to Glove as Foot is to ____?",
+    "options": [
+      "Hat",
+      "Sock",
+      "Belt",
+      "Shirt"
+    ],
+    "answer": "Sock",
+    "reasoning_type": "analogy"
+  },
+  {
+    "id": "an_003",
+    "analogy": "Pen is to Writer as Brush is to ____?",
+    "options": [
+      "Artist",
+      "Singer",
+      "Chef",
+      "Pilot"
+    ],
+    "answer": "Artist",
+    "reasoning_type": "analogy"
+  }
+]

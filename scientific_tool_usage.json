@@ -1,0 +1,26 @@
+[
+  {
+    "id": "stu_001",
+    "question": "Which tool is used to measure temperature accurately in a lab?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Telescope",
+      "Microscope"
+    ],
+    "answer": "Thermometer",
+    "reasoning": "A thermometer is specifically designed to measure temperature."
+  },
+  {
+    "id": "stu_002",
+    "question": "Which instrument is used to look at very small organisms?",
+    "options": [
+      "Magnifying glass",
+      "Telescope",
+      "Microscope",
+      "Camera"
+    ],
+    "answer": "Microscope",
+    "reasoning": "Microscopes magnify tiny objects, making them visible to the human eye."
+  }
+]

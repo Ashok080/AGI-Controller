@@ -1,0 +1,16 @@
+[
+  {
+    "id": "gr_001",
+    "action": "A student studies every night for a month.",
+    "question": "What is the goal of the student's actions?",
+    "answer": "To prepare well and perform better in the upcoming exams.",
+    "reasoning_type": "goal reasoning"
+  },
+  {
+    "id": "gr_002",
+    "action": "A person saves money for years.",
+    "question": "What might be the person's goal?",
+    "answer": "To buy a house or make a big investment.",
+    "reasoning_type": "goal reasoning"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ce_001",
+    "cause": "It rained heavily overnight.",
+    "effect": "The streets were flooded in the morning.",
+    "question": "What caused the flooding?",
+    "answer": "The heavy rain overnight.",
+    "reasoning_type": "cause and effect"
+  },
+  {
+    "id": "ce_002",
+    "cause": "A student studied diligently for weeks.",
+    "effect": "They scored the highest marks in the class.",
+    "question": "Why did the student score so well?",
+    "answer": "Because they studied diligently for weeks.",
+    "reasoning_type": "cause and effect"
+  },
+  {
+    "id": "ce_003",
+    "cause": "The electricity went out during the night.",
+    "effect": "The alarm clock didn\u2019t go off in the morning.",
+    "question": "Why didn\u2019t the alarm ring?",
+    "answer": "Because the power was out and the clock stopped working.",
+    "reasoning_type": "cause and effect"
+  }
+]

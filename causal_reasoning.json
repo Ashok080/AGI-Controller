@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cr_001",
+    "situation": "It rained heavily all night.",
+    "question": "What effect might this cause in the morning?",
+    "answer": "There could be waterlogging and traffic jams.",
+    "reasoning_type": "causal reasoning"
+  },
+  {
+    "id": "cr_002",
+    "situation": "The power went out during the storm.",
+    "question": "What caused the power outage?",
+    "answer": "The storm likely damaged power lines.",
+    "reasoning_type": "causal reasoning"
+  }
+]

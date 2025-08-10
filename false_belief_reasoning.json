@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fb_001",
+    "scenario": "Sally places her ball in the basket and leaves. Anne moves it to the box.",
+    "question": "Where will Sally look for the ball?",
+    "options": [
+      "In the basket",
+      "In the box",
+      "She doesn\u2019t know"
+    ],
+    "answer": "In the basket",
+    "reasoning": "Sally was not present when the ball was moved, so she falsely believes it is still in the basket."
+  },
+  {
+    "id": "fb_002",
+    "scenario": "Tom sees a cookie in the jar. Lucy secretly eats it. Tom comes back.",
+    "question": "Where does Tom think the cookie is?",
+    "options": [
+      "In the jar",
+      "In Lucy\u2019s hand",
+      "Gone"
+    ],
+    "answer": "In the jar",
+    "reasoning": "Tom didn\u2019t witness the event, so he still believes the cookie is in the jar."
+  }
+]

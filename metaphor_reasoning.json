@@ -1,0 +1,28 @@
+[
+  {
+    "id": "mr_001",
+    "metaphor": "Time is a thief.",
+    "question": "What does this metaphor suggest?",
+    "options": [
+      "Time steals moments from life.",
+      "Thieves are fast.",
+      "Time hides in shadows.",
+      "Time is money."
+    ],
+    "answer": "Time steals moments from life.",
+    "reasoning_type": "metaphor"
+  },
+  {
+    "id": "mr_002",
+    "metaphor": "His words were a dagger to her heart.",
+    "question": "What does this metaphor mean?",
+    "options": [
+      "He used a weapon.",
+      "His words hurt her emotionally.",
+      "She had a heart condition.",
+      "His speech was loud."
+    ],
+    "answer": "His words hurt her emotionally.",
+    "reasoning_type": "metaphor"
+  }
+]

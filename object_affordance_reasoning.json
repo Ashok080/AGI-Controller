@@ -1,0 +1,41 @@
+[
+  {
+    "id": "oa_001",
+    "object": "Chair",
+    "question": "What is a common use for this object?",
+    "options": [
+      "To sit on",
+      "To write with",
+      "To eat",
+      "To throw"
+    ],
+    "answer": "To sit on",
+    "reasoning_type": "object affordance"
+  },
+  {
+    "id": "oa_002",
+    "object": "Knife",
+    "question": "What is this object typically used for?",
+    "options": [
+      "To cut",
+      "To read",
+      "To paint",
+      "To measure temperature"
+    ],
+    "answer": "To cut",
+    "reasoning_type": "object affordance"
+  },
+  {
+    "id": "oa_003",
+    "object": "Cup",
+    "question": "What is a typical function of a cup?",
+    "options": [
+      "To hold liquids",
+      "To walk",
+      "To listen",
+      "To write"
+    ],
+    "answer": "To hold liquids",
+    "reasoning_type": "object affordance"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "region": "Motor Cortex",
+  "functions": [
+    "Voluntary muscle movements",
+    "Motor planning",
+    "Fine motor control",
+    "Coordination of limbs"
+  ],
+  "applications": [
+    "Robotics and motion control",
+    "AI prosthetics",
+    "Gesture recognition",
+    "Brain-computer interfaces"
+  ]
+}

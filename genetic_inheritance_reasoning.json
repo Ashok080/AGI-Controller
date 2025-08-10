@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gen_001",
+    "question": "If both parents have brown eyes but carry a blue eye gene, what is the probability their child will have blue eyes?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "answer": "25%",
+    "reasoning": "Each parent has a recessive blue gene, so there's a 1 in 4 chance the child inherits both."
+  },
+  {
+    "id": "gen_002",
+    "question": "A woman is a carrier of hemophilia (X-linked recessive). If she has a son, what\u2019s the probability he will have hemophilia?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "answer": "50%",
+    "reasoning": "The mother has one X with the gene and passes it to half of her sons."
+  }
+]

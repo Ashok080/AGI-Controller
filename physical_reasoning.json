@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pr_001",
+    "scenario": "A ball is placed at the top of a ramp.",
+    "question": "What will happen when the ball is released?",
+    "options": [
+      "It will roll down",
+      "It will stay at the top",
+      "It will bounce up",
+      "It will fly off"
+    ],
+    "answer": "It will roll down",
+    "reasoning_type": "physical reasoning"
+  },
+  {
+    "id": "pr_002",
+    "scenario": "A glass is filled with water and ice cubes are added.",
+    "question": "What will happen to the water level as the ice melts?",
+    "options": [
+      "It will rise",
+      "It will stay the same",
+      "It will overflow",
+      "It will decrease"
+    ],
+    "answer": "It will stay the same",
+    "reasoning_type": "physical reasoning"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sa_001",
+    "situation": "A child sees chocolate on their face when looking in the mirror.",
+    "question": "What might the child do upon seeing the chocolate?",
+    "answer": "They might try to wipe it off their face.",
+    "reasoning_type": "self-awareness"
+  },
+  {
+    "id": "sa_002",
+    "situation": "You feel nervous before giving a speech.",
+    "question": "Why might you feel this way?",
+    "answer": "Because you are aware that others will be judging your performance.",
+    "reasoning_type": "self-awareness"
+  },
+  {
+    "id": "sa_003",
+    "situation": "A person realizes they made a mistake at work.",
+    "question": "What could be a self-aware response?",
+    "answer": "They acknowledge the mistake and think about how to avoid it next time.",
+    "reasoning_type": "self-awareness"
+  }
+]

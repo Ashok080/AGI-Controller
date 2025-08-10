@@ -1,0 +1,24 @@
+[
+  {
+    "id": "to_001",
+    "events": [
+      "The alarm rings.",
+      "She wakes up.",
+      "She gets dressed."
+    ],
+    "question": "What happened first?",
+    "answer": "The alarm rings",
+    "reasoning": "The alarm rings before she wakes up and gets dressed."
+  },
+  {
+    "id": "to_002",
+    "events": [
+      "He washed the dishes.",
+      "He cooked dinner.",
+      "He ate dinner."
+    ],
+    "question": "Which event happened last?",
+    "answer": "He washed the dishes",
+    "reasoning": "After cooking and eating, dishes are usually washed last."
+  }
+]

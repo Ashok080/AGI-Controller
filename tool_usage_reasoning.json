@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tur_001",
+    "situation": "A person needs to tighten a screw on a wooden shelf.",
+    "question": "What tool should they use?",
+    "options": [
+      "Hammer",
+      "Screwdriver",
+      "Wrench",
+      "Chisel"
+    ],
+    "answer": "Screwdriver",
+    "reasoning": "A screwdriver is designed to fit into screw heads and turn them, making it ideal for tightening screws."
+  },
+  {
+    "id": "tur_002",
+    "situation": "A person wants to measure how tall a cupboard is.",
+    "question": "Which tool is appropriate?",
+    "options": [
+      "Scale",
+      "Tape Measure",
+      "Thermometer",
+      "Compass"
+    ],
+    "answer": "Tape Measure",
+    "reasoning": "A tape measure is a flexible ruler used to measure size or distance, ideal for measuring tall objects."
+  }
+]

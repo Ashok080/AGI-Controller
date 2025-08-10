@@ -1,0 +1,23 @@
+{
+  "reasoning_type": "visual_reasoning",
+  "samples": [
+    {
+      "id": "vr_001",
+      "situation": "You see a man holding an umbrella, but it's not raining.",
+      "question": "Why might the man be holding an umbrella even though it\u2019s not raining?",
+      "answer": "He might be using it for shade from the sun."
+    },
+    {
+      "id": "vr_002",
+      "situation": "A person is putting on gloves and a scarf while standing outside.",
+      "question": "What does this suggest about the weather?",
+      "answer": "It is likely cold outside."
+    },
+    {
+      "id": "vr_003",
+      "situation": "A woman is holding a baby bottle near a crying baby.",
+      "question": "What might the woman be trying to do?",
+      "answer": "She is probably trying to feed the baby."
+    }
+  ]
+}

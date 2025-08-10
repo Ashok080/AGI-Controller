@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sr_001",
+    "object_1": "The ball",
+    "object_2": "The table",
+    "spatial_relation": "The ball is under the table."
+  },
+  {
+    "id": "sr_002",
+    "object_1": "The clock",
+    "object_2": "The door",
+    "spatial_relation": "The clock is above the door."
+  },
+  {
+    "id": "sr_003",
+    "object_1": "The cup",
+    "object_2": "The plate",
+    "spatial_relation": "The cup is to the left of the plate."
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sr_001",
+    "observation": "A plant in direct sunlight grows faster than one in the shade.",
+    "hypothesis": "Sunlight increases the rate of photosynthesis, which leads to faster growth.",
+    "question": "Why might the plant in sunlight grow faster?",
+    "options": [
+      "It drinks more water.",
+      "Sunlight improves photosynthesis.",
+      "It has better soil.",
+      "The pot is bigger."
+    ],
+    "answer": "Sunlight improves photosynthesis"
+  },
+  {
+    "id": "sr_002",
+    "observation": "Iron nails left outside rust in the rain.",
+    "hypothesis": "Water and oxygen react with iron to form rust.",
+    "question": "Why do iron nails rust when exposed to rain?",
+    "options": [
+      "Rain contains acid.",
+      "Iron dissolves in water.",
+      "Water and oxygen cause rusting.",
+      "Rust is already on nails."
+    ],
+    "answer": "Water and oxygen cause rusting"
+  }
+]

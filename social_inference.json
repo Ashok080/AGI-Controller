@@ -1,0 +1,28 @@
+[
+  {
+    "id": "si_001",
+    "situation": "John kept interrupting Sarah during the meeting.",
+    "question": "How might Sarah feel?",
+    "options": [
+      "Grateful",
+      "Annoyed",
+      "Excited",
+      "Confused"
+    ],
+    "answer": "Annoyed",
+    "reasoning_type": "social inference"
+  },
+  {
+    "id": "si_002",
+    "situation": "Emily brought snacks for her team without being asked.",
+    "question": "What does this tell about Emily?",
+    "options": [
+      "She is thoughtful",
+      "She is bored",
+      "She is confused",
+      "She is tired"
+    ],
+    "answer": "She is thoughtful",
+    "reasoning_type": "social inference"
+  }
+]

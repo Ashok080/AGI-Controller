@@ -1,0 +1,26 @@
+[
+  {
+    "id": "msr_001",
+    "question": "Which material is best suited for making a kitchen cutting board?",
+    "options": [
+      "Glass",
+      "Wood",
+      "Plastic",
+      "Fabric"
+    ],
+    "answer": "Wood",
+    "reasoning": "Wood is durable, resists knife marks, and is easy to clean, making it a good choice for cutting boards."
+  },
+  {
+    "id": "msr_002",
+    "question": "Which material is best for building the frame of a skyscraper?",
+    "options": [
+      "Plastic",
+      "Steel",
+      "Glass",
+      "Rubber"
+    ],
+    "answer": "Steel",
+    "reasoning": "Steel provides the strength and structural integrity needed for tall buildings."
+  }
+]

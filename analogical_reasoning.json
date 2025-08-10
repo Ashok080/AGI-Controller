@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ar_001",
+    "analogy": "Bird is to fly as fish is to _____",
+    "options": [
+      "swim",
+      "breathe",
+      "jump",
+      "run"
+    ],
+    "answer": "swim",
+    "reasoning_type": "analogical reasoning"
+  },
+  {
+    "id": "ar_002",
+    "analogy": "Pen is to writer as brush is to _____",
+    "options": [
+      "painter",
+      "singer",
+      "doctor",
+      "driver"
+    ],
+    "answer": "painter",
+    "reasoning_type": "analogical reasoning"
+  }
+]

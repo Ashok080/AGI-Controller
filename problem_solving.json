@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ps_001",
+    "situation": "You are locked out of your house without a key.",
+    "question": "What could be a practical solution?",
+    "answer": "Call a locksmith or a family member with a spare key.",
+    "reasoning_type": "problem solving"
+  },
+  {
+    "id": "ps_002",
+    "situation": "Your phone battery is about to die, and you need to call someone urgently.",
+    "question": "What should you do?",
+    "answer": "Find someone nearby with a charger or borrow their phone.",
+    "reasoning_type": "problem solving"
+  },
+  {
+    "id": "ps_003",
+    "situation": "Your car breaks down in a remote area.",
+    "question": "What is the best course of action?",
+    "answer": "Call roadside assistance or use a GPS app to find the nearest help.",
+    "reasoning_type": "problem solving"
+  }
+]

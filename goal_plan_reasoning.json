@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gp_001",
+    "goal": "Bake a chocolate cake",
+    "plan": [
+      "Buy ingredients",
+      "Mix ingredients",
+      "Preheat oven",
+      "Bake cake",
+      "Cool and serve"
+    ],
+    "reasoning_type": "goal-plan"
+  },
+  {
+    "id": "gp_002",
+    "goal": "Pass the math exam",
+    "plan": [
+      "Create study schedule",
+      "Practice problems",
+      "Review notes",
+      "Take mock test"
+    ],
+    "reasoning_type": "goal-plan"
+  },
+  {
+    "id": "gp_003",
+    "goal": "Start a small business",
+    "plan": [
+      "Find a business idea",
+      "Create business plan",
+      "Register the business",
+      "Market it",
+      "Launch operations"
+    ],
+    "reasoning_type": "goal-plan"
+  }
+]

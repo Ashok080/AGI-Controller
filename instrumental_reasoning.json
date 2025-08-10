@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ir_001",
+    "situation": "A person wants to hang a picture on the wall.",
+    "question": "What tool do they need and why?",
+    "answer": "A hammer, to drive a nail into the wall.",
+    "reasoning_type": "instrumental reasoning"
+  },
+  {
+    "id": "ir_002",
+    "situation": "You want to write on a whiteboard.",
+    "question": "What should you use?",
+    "answer": "A whiteboard marker because it's designed to be erasable.",
+    "reasoning_type": "instrumental reasoning"
+  },
+  {
+    "id": "ir_003",
+    "situation": "A person wants to cut vegetables finely.",
+    "question": "What should they use?",
+    "answer": "A sharp kitchen knife for precision and efficiency.",
+    "reasoning_type": "instrumental reasoning"
+  }
+]

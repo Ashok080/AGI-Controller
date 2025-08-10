@@ -1,0 +1,41 @@
+[
+  {
+    "id": "tom_001",
+    "scenario": "Anna sees John put a toy in the cupboard. Then John leaves. Mary moves the toy to the drawer.",
+    "question": "Where will John look for the toy when he comes back?",
+    "options": [
+      "Cupboard",
+      "Drawer",
+      "Under the bed",
+      "He won\u2019t look for it"
+    ],
+    "answer": "Cupboard",
+    "reasoning_type": "theory of mind"
+  },
+  {
+    "id": "tom_002",
+    "scenario": "Tom believes it will rain, but it is actually sunny.",
+    "question": "What will Tom most likely take with him when he goes outside?",
+    "options": [
+      "An umbrella",
+      "A swimsuit",
+      "A snow shovel",
+      "A flashlight"
+    ],
+    "answer": "An umbrella",
+    "reasoning_type": "theory of mind"
+  },
+  {
+    "id": "tom_003",
+    "scenario": "Lisa hides a gift in her drawer. Her sister saw her do it.",
+    "question": "Does Lisa think her sister knows where the gift is?",
+    "options": [
+      "Yes",
+      "No",
+      "She is unsure",
+      "She forgot"
+    ],
+    "answer": "Yes",
+    "reasoning_type": "theory of mind"
+  }
+]

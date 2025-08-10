@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cf_001",
+    "event": "You missed your flight because you left home late.",
+    "counterfactual": "If I had left home 15 minutes earlier, I would have caught the flight.",
+    "reasoning": "Changing the departure time would have changed the outcome."
+  },
+  {
+    "id": "cf_002",
+    "event": "The team lost the match after missing a penalty.",
+    "counterfactual": "If the penalty had been scored, we might have won.",
+    "reasoning": "Altering one event (penalty outcome) changes the final result."
+  }
+]

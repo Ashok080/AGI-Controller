@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ce_001",
+    "cause": "He left the freezer door open.",
+    "effect": "The ice cream melted.",
+    "reasoning": "Freezers need to stay closed to maintain a cold temperature."
+  },
+  {
+    "id": "ce_002",
+    "cause": "She watered the plant daily.",
+    "effect": "The plant grew tall and healthy.",
+    "reasoning": "Regular watering provides the moisture plants need to grow."
+  }
+]

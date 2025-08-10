@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lr_001",
+    "situation": "All humans are mortal. Socrates is a human.",
+    "question": "What can we conclude?",
+    "answer": "Socrates is mortal.",
+    "reasoning_type": "logical reasoning"
+  },
+  {
+    "id": "lr_002",
+    "situation": "If it rains, the ground gets wet. It is raining.",
+    "question": "What must be true?",
+    "answer": "The ground is wet.",
+    "reasoning_type": "logical reasoning"
+  },
+  {
+    "id": "lr_003",
+    "situation": "Either the battery is dead or the bulb is broken. The bulb is not broken.",
+    "question": "What does this imply?",
+    "answer": "The battery is dead.",
+    "reasoning_type": "logical reasoning"
+  }
+]

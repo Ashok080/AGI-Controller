@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mr_001",
+    "situation": "You see someone drop their wallet on the street.",
+    "question": "What is the right thing to do?",
+    "answer": "Pick it up and try to return it to them or turn it in to the police.",
+    "reasoning_type": "moral reasoning"
+  },
+  {
+    "id": "mr_002",
+    "situation": "A student finds test answers online before an exam.",
+    "question": "Should they use them?",
+    "answer": "No, it would be dishonest and unfair to others.",
+    "reasoning_type": "moral reasoning"
+  },
+  {
+    "id": "mr_003",
+    "situation": "You are tempted to lie to avoid getting into trouble.",
+    "question": "Why might you choose to tell the truth?",
+    "answer": "Because honesty builds trust and helps maintain integrity.",
+    "reasoning_type": "moral reasoning"
+  }
+]

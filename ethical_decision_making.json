@@ -1,0 +1,20 @@
+[
+  {
+    "id": "edm_001",
+    "scenario": "A friend asks you to lie to their parents about their whereabouts.",
+    "ethical_choice": "Refuse to lie and encourage your friend to be honest.",
+    "reasoning": "Lying can damage trust and enable harmful behavior."
+  },
+  {
+    "id": "edm_002",
+    "scenario": "You find a wallet with money and ID on the street.",
+    "ethical_choice": "Return it to the owner or hand it to the authorities.",
+    "reasoning": "Keeping lost property is dishonest and unfair to the owner."
+  },
+  {
+    "id": "edm_003",
+    "scenario": "You witness a classmate being bullied online.",
+    "ethical_choice": "Report the incident and support the victim.",
+    "reasoning": "Silence enables harm; speaking up promotes justice and empathy."
+  }
+]

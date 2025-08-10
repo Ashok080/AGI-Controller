@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ip_001",
+    "situation": "A ball is placed on a sloped surface.",
+    "question": "What will likely happen to the ball?",
+    "options": [
+      "It will roll downhill",
+      "It will fly upward",
+      "It will stay still",
+      "It will shrink"
+    ],
+    "answer": "It will roll downhill",
+    "reasoning_type": "intuitive physics"
+  },
+  {
+    "id": "ip_002",
+    "situation": "You push an empty box and a full box with the same force.",
+    "question": "Which one moves further?",
+    "options": [
+      "Empty box",
+      "Full box",
+      "Both equally",
+      "Neither moves"
+    ],
+    "answer": "Empty box",
+    "reasoning_type": "intuitive physics"
+  },
+  {
+    "id": "ip_003",
+    "situation": "A glass is pushed off a table.",
+    "question": "What is likely to happen?",
+    "options": [
+      "It will float",
+      "It will fall and break",
+      "It will bounce",
+      "It will disappear"
+    ],
+    "answer": "It will fall and break",
+    "reasoning_type": "intuitive physics"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cf_001",
+    "situation": "Jane missed her train because she left home late.",
+    "question": "What could have happened if Jane had left earlier?",
+    "options": [
+      "She would have caught the train",
+      "She would still miss it",
+      "The train would be delayed",
+      "She would not leave"
+    ],
+    "answer": "She would have caught the train",
+    "reasoning_type": "counterfactual reasoning"
+  },
+  {
+    "id": "cf_002",
+    "situation": "David failed the test because he didn't study.",
+    "question": "What might have happened if David had studied?",
+    "options": [
+      "He might have passed the test",
+      "The test would be canceled",
+      "He would still fail",
+      "He would fall asleep"
+    ],
+    "answer": "He might have passed the test",
+    "reasoning_type": "counterfactual reasoning"
+  }
+]

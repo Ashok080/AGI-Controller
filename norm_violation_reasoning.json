@@ -1,0 +1,23 @@
+[
+  {
+    "id": "nv_001",
+    "situation": "A person cuts in line at a grocery store.",
+    "question": "Why might others be upset?",
+    "answer": "Because cutting in line is unfair and violates social norms.",
+    "reasoning_type": "norm violation reasoning"
+  },
+  {
+    "id": "nv_002",
+    "situation": "Someone talks loudly during a movie in a theater.",
+    "question": "Why is this behavior problematic?",
+    "answer": "It disturbs others and breaks the norm of being quiet in theaters.",
+    "reasoning_type": "norm violation reasoning"
+  },
+  {
+    "id": "nv_003",
+    "situation": "A child refuses to share toys during a group play session.",
+    "question": "Why might this be seen as inappropriate?",
+    "answer": "Because sharing is encouraged in social settings with peers.",
+    "reasoning_type": "norm violation reasoning"
+  }
+]
