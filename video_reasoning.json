@@ -1,0 +1,16 @@
+[
+  {
+    "id": "vr_001",
+    "video_description": "A video shows a person placing a kettle on a stove and turning the knob. Steam starts to rise after a while.",
+    "question": "What will happen if the knob is not turned?",
+    "answer": "The water in the kettle will not heat up or boil.",
+    "reasoning_type": "causal"
+  },
+  {
+    "id": "vr_002",
+    "video_description": "A clip of a soccer player running toward the goal and kicking the ball.",
+    "question": "What might happen next?",
+    "answer": "The ball may go into the goal or be blocked by the goalkeeper.",
+    "reasoning_type": "predictive"
+  }
+]

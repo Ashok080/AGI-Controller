@@ -1,0 +1,23 @@
+[
+  {
+    "id": "symbolic_001",
+    "input": "If A = 2, B = 3, what is A + B?",
+    "question": "What is the result of A + B?",
+    "answer": "5",
+    "reasoning_type": "symbolic reasoning"
+  },
+  {
+    "id": "symbolic_002",
+    "input": "If \u2206 means multiply by 2 and \u25c7 means add 3, what is 4 \u2206 \u25c7?",
+    "question": "What is 4 \u2206 \u25c7?",
+    "answer": "11",
+    "reasoning_type": "symbolic reasoning"
+  },
+  {
+    "id": "symbolic_003",
+    "input": "Rule: Reverse the string, then change a\u21921, b\u21922, ..., z\u219226. Input: cab",
+    "question": "What is the final result?",
+    "answer": "2 1 3",
+    "reasoning_type": "symbolic reasoning"
+  }
+]

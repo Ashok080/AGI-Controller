@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mc_001",
+    "statement": "The Sun revolves around the Earth.",
+    "question": "What is the misconception in this statement?",
+    "answer": "The misconception is that the Sun revolves around the Earth. In reality, the Earth revolves around the Sun.",
+    "reasoning_type": "misconception correction"
+  },
+  {
+    "id": "mc_002",
+    "statement": "Humans only use 10% of their brains.",
+    "question": "What is the misconception in this statement?",
+    "answer": "The misconception is that only 10% of the brain is used. Brain imaging shows that virtually all parts are active at some point.",
+    "reasoning_type": "misconception correction"
+  },
+  {
+    "id": "mc_003",
+    "statement": "Lightning never strikes the same place twice.",
+    "question": "What is the misconception in this statement?",
+    "answer": "The misconception is that lightning never strikes the same place twice. In fact, it often does, especially tall structures like skyscrapers.",
+    "reasoning_type": "misconception correction"
+  }
+]

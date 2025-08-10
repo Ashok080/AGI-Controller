@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tur_001",
+    "question": "Why would someone use a hammer instead of a screwdriver?",
+    "answer": "Because a hammer is designed for driving nails into wood or surfaces, while a screwdriver is used to turn screws.",
+    "reasoning_type": "tool use reasoning"
+  },
+  {
+    "id": "tur_002",
+    "question": "Why do people use measuring cups while baking?",
+    "answer": "Because measuring cups help ensure precise quantities of ingredients, which is crucial for baking recipes to work correctly.",
+    "reasoning_type": "tool use reasoning"
+  },
+  {
+    "id": "tur_003",
+    "question": "Why would a doctor use a stethoscope?",
+    "answer": "A stethoscope helps the doctor listen to internal body sounds like the heartbeat or lung function, which are essential for diagnosis.",
+    "reasoning_type": "tool use reasoning"
+  }
+]

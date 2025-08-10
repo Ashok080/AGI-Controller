@@ -1,0 +1,14 @@
+[
+  {
+    "id": "or_001",
+    "smell_description": "You smell gas in the kitchen.",
+    "question": "What should you do?",
+    "answer": "Check for a gas leak and ventilate the area"
+  },
+  {
+    "id": "or_002",
+    "smell_description": "You detect the aroma of freshly baked bread.",
+    "question": "What does this indicate?",
+    "answer": "Someone is baking or has recently baked bread"
+  }
+]

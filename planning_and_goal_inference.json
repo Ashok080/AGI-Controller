@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pgi_001",
+    "scenario": "A man puts on a tie and grabs his briefcase.",
+    "question": "What is his likely goal?",
+    "answer": "He is preparing to go to work.",
+    "reasoning_type": "planning and goal inference"
+  },
+  {
+    "id": "pgi_002",
+    "scenario": "A woman checks the oven and sets the table.",
+    "question": "What is she likely planning to do?",
+    "answer": "Serve a meal.",
+    "reasoning_type": "planning and goal inference"
+  }
+]

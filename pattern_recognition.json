@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pr_001",
+    "context": "The sequence is: 2, 4, 8, 16, ?",
+    "question": "What is the next number in the sequence?",
+    "answer": "32",
+    "reasoning_type": "pattern recognition"
+  },
+  {
+    "id": "pr_002",
+    "context": "The letters in the sequence are: A, C, F, J, ?",
+    "question": "What is the next letter in the sequence?",
+    "answer": "O",
+    "reasoning_type": "pattern recognition"
+  }
+]

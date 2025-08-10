@@ -1,0 +1,23 @@
+[
+  {
+    "id": "urr_001",
+    "area": "Urban",
+    "question": "Why do urban areas have better access to hospitals?",
+    "answer": "Because cities have higher population density and more infrastructure investment.",
+    "reasoning_type": "urban vs rural reasoning"
+  },
+  {
+    "id": "urr_002",
+    "area": "Rural",
+    "question": "Why might children in rural areas face challenges attending school?",
+    "answer": "Because schools may be far from their homes and transport options are limited.",
+    "reasoning_type": "urban vs rural reasoning"
+  },
+  {
+    "id": "urr_003",
+    "area": "Urban",
+    "question": "Why is air pollution usually higher in urban areas?",
+    "answer": "Because of heavy traffic, industrial activity, and high population density.",
+    "reasoning_type": "urban vs rural reasoning"
+  }
+]

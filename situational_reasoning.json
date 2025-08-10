@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sr_001",
+    "situation": "A person quickly hides their phone when someone walks in.",
+    "question": "Why might they be hiding their phone?",
+    "answer": "They could be looking at something private or something they don't want others to see.",
+    "reasoning_type": "situational reasoning"
+  },
+  {
+    "id": "sr_002",
+    "situation": "A student packs their bag the night before school.",
+    "question": "Why is the student doing this?",
+    "answer": "To be prepared and save time in the morning.",
+    "reasoning_type": "situational reasoning"
+  }
+]

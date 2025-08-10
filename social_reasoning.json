@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sr_001",
+    "scenario": "John forgot his friend\u2019s birthday and noticed his friend was upset.",
+    "question": "What should John do to make amends?",
+    "answer": "John should apologize and maybe give a belated birthday gift.",
+    "reasoning_type": "social reasoning"
+  },
+  {
+    "id": "sr_002",
+    "scenario": "A child is crying after falling down in the playground.",
+    "question": "What is the appropriate social response?",
+    "answer": "Comfort the child and check if they are hurt.",
+    "reasoning_type": "social reasoning"
+  }
+]

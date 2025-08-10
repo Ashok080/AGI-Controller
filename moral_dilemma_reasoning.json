@@ -1,0 +1,23 @@
+[
+  {
+    "id": "moral_001",
+    "situation": "You find a wallet on the street with money and the owner's ID.",
+    "question": "What is the morally right thing to do?",
+    "answer": "Try to return the wallet to its owner using the ID.",
+    "reasoning_type": "moral reasoning"
+  },
+  {
+    "id": "moral_002",
+    "situation": "Your best friend cheated on a test and asks you not to tell anyone.",
+    "question": "What is the dilemma?",
+    "answer": "Whether to stay loyal to your friend or report the cheating because it's unfair.",
+    "reasoning_type": "moral dilemma"
+  },
+  {
+    "id": "moral_003",
+    "situation": "You see a child being bullied at school.",
+    "question": "What should you do?",
+    "answer": "Intervene or inform an adult to protect the child.",
+    "reasoning_type": "moral reasoning"
+  }
+]

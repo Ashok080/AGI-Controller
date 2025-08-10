@@ -1,0 +1,30 @@
+[
+  {
+    "id": "oop_001",
+    "concept": "Class",
+    "description": "A blueprint for creating objects.",
+    "example": "class Dog:\n    def __init__(self, name):\n        self.name = name",
+    "domain": "Python OOP"
+  },
+  {
+    "id": "oop_002",
+    "concept": "Object",
+    "description": "An instance of a class.",
+    "example": "my_dog = Dog('Buddy')",
+    "domain": "Python OOP"
+  },
+  {
+    "id": "oop_003",
+    "concept": "Method",
+    "description": "A function defined inside a class.",
+    "example": "class Dog:\n    def bark(self):\n        print('Woof!')",
+    "domain": "Python OOP"
+  },
+  {
+    "id": "oop_004",
+    "concept": "Inheritance",
+    "description": "A way to create a new class using details of an existing class.",
+    "example": "class Animal:\n    pass\nclass Dog(Animal):\n    pass",
+    "domain": "Python OOP"
+  }
+]

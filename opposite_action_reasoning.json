@@ -1,0 +1,23 @@
+[
+  {
+    "id": "oa_001",
+    "action": "open the door",
+    "question": "What is the opposite of opening a door?",
+    "answer": "Closing the door, because it undoes the opening action.",
+    "reasoning_type": "opposite action reasoning"
+  },
+  {
+    "id": "oa_002",
+    "action": "stand up",
+    "question": "What is the opposite of standing up?",
+    "answer": "Sitting down, as it reverses the action of standing.",
+    "reasoning_type": "opposite action reasoning"
+  },
+  {
+    "id": "oa_003",
+    "action": "turn on the light",
+    "question": "What is the opposite of turning on the light?",
+    "answer": "Turning off the light, which is the reverse of turning it on.",
+    "reasoning_type": "opposite action reasoning"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vsr_001",
+    "question": "Which shape will result if the square is folded along the dashed line?",
+    "context": "A square with a diagonal dashed line from top-left to bottom-right.",
+    "options": [
+      "Two overlapping triangles",
+      "A smaller square",
+      "A rectangle",
+      "No change"
+    ],
+    "answer": "Two overlapping triangles",
+    "explanation": "Folding along the diagonal line results in two congruent right-angled triangles overlapping each other."
+  },
+  {
+    "id": "vsr_002",
+    "question": "Which object does NOT fit spatially with the others?",
+    "options": [
+      "Cube",
+      "Sphere",
+      "Cylinder",
+      "Triangle"
+    ],
+    "answer": "Triangle",
+    "explanation": "The triangle is a 2D shape, while the others are 3D solids."
+  }
+]

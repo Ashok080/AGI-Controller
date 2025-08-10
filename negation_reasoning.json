@@ -1,0 +1,23 @@
+[
+  {
+    "id": "nr_001",
+    "situation": "Tom didn\u2019t eat the apple.",
+    "question": "Did Tom eat the apple?",
+    "answer": "No, he did not eat the apple.",
+    "reasoning_type": "negation reasoning"
+  },
+  {
+    "id": "nr_002",
+    "situation": "Sara is not going to the party.",
+    "question": "Is Sara going to the party?",
+    "answer": "No, she is not going.",
+    "reasoning_type": "negation reasoning"
+  },
+  {
+    "id": "nr_003",
+    "situation": "No dogs are allowed in the building.",
+    "question": "Can dogs enter the building?",
+    "answer": "No, dogs are not allowed.",
+    "reasoning_type": "negation reasoning"
+  }
+]

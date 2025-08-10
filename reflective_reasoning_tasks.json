@@ -1,0 +1,20 @@
+[
+  {
+    "id": "refl_001",
+    "prompt": "You answered incorrectly to a previous math problem. What might be the reason?",
+    "answer": "I may have made a calculation error or misunderstood the question.",
+    "reasoning_type": "self-error analysis"
+  },
+  {
+    "id": "refl_002",
+    "prompt": "You were unsure about your previous answer. How confident are you in your response (0-100%)?",
+    "answer": "Around 60%. I need to check external sources to improve certainty.",
+    "reasoning_type": "confidence calibration"
+  },
+  {
+    "id": "refl_003",
+    "prompt": "What biases might affect your recommendation in a hiring decision?",
+    "answer": "Confirmation bias or similarity bias could influence my reasoning.",
+    "reasoning_type": "bias awareness"
+  }
+]

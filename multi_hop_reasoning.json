@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mh_001",
+    "context": [
+      "The Nile is the longest river in Africa.",
+      "Egypt is located in Africa."
+    ],
+    "question": "Which country does the longest river in Africa flow through?",
+    "answer": "Egypt"
+  },
+  {
+    "id": "mh_002",
+    "context": [
+      "Photosynthesis requires sunlight.",
+      "Plants perform photosynthesis during the day."
+    ],
+    "question": "When do plants perform photosynthesis?",
+    "answer": "During the day"
+  }
+]

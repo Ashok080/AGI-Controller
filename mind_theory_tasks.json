@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mind_001",
+    "scenario": "Alice sees Bob put a toy in the blue box. Then Bob leaves. Carol moves the toy to the red box. Where will Bob look for the toy?",
+    "answer": "Blue box",
+    "reasoning_type": "false belief (first-order)"
+  },
+  {
+    "id": "mind_002",
+    "scenario": "Tom thinks Jerry believes the book is on the table, but Jerry actually moved it under the bed. Where does Tom think Jerry will look for the book?",
+    "answer": "On the table",
+    "reasoning_type": "second-order belief"
+  },
+  {
+    "id": "mind_003",
+    "scenario": "Sara is smiling but just failed her exam. What is the likely reason for her smile?",
+    "answer": "She may be masking her disappointment to appear strong.",
+    "reasoning_type": "emotional masking / perspective taking"
+  }
+]

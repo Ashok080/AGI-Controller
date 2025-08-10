@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pc_001",
+    "concept": "Gravity",
+    "definition": "A force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+    "example": "An apple falling from a tree is due to gravity.",
+    "domain": "Physics"
+  },
+  {
+    "id": "pc_002",
+    "concept": "Friction",
+    "definition": "The resistance that one surface or object encounters when moving over another.",
+    "example": "A ball slows down when rolled on a carpet because of friction.",
+    "domain": "Physics"
+  }
+]

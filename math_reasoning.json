@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mr_001",
+    "question": "If you buy 3 pens at \u20b915 each, how much do you spend?",
+    "options": [
+      "\u20b930",
+      "\u20b945",
+      "\u20b960",
+      "\u20b975"
+    ],
+    "answer": "\u20b945",
+    "explanation": "3 \u00d7 \u20b915 = \u20b945"
+  },
+  {
+    "id": "mr_002",
+    "question": "What is the value of x if 2x + 3 = 11?",
+    "answer": "4",
+    "explanation": "2x + 3 = 11 \u2192 2x = 8 \u2192 x = 4"
+  }
+]

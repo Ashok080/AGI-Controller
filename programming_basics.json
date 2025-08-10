@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pb_001",
+    "concept": "Variable",
+    "definition": "A storage location identified by a name used to hold data.",
+    "example": "x = 5 assigns the value 5 to the variable x.",
+    "domain": "Programming"
+  },
+  {
+    "id": "pb_002",
+    "concept": "Loop",
+    "definition": "A programming structure that repeats a sequence of instructions until a condition is met.",
+    "example": "A 'for' loop can be used to print numbers 1 to 10.",
+    "domain": "Programming"
+  }
+]

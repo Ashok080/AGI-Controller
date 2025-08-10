@@ -1,0 +1,16 @@
+[
+  {
+    "id": "nr_001",
+    "context": "A store sells apples at \u20b930 per kg. If a customer buys 3.5 kg, how much will they pay?",
+    "question": "What is the total cost?",
+    "answer": "\u20b9105",
+    "reasoning_type": "numerical reasoning"
+  },
+  {
+    "id": "nr_002",
+    "context": "A train travels 120 km in 2 hours.",
+    "question": "What is the average speed of the train?",
+    "answer": "60 km/h",
+    "reasoning_type": "numerical reasoning"
+  }
+]

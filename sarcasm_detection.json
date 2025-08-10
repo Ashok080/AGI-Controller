@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sd_001",
+    "text": "Oh great, another Monday. Just what I needed!",
+    "label": "sarcastic",
+    "reasoning_type": "sarcasm detection"
+  },
+  {
+    "id": "sd_002",
+    "text": "I love when my internet stops working during a meeting.",
+    "label": "sarcastic",
+    "reasoning_type": "sarcasm detection"
+  }
+]

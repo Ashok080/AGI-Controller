@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pr_001",
+    "situation": "Dark clouds are gathering and the wind is picking up.",
+    "prediction": "It might rain soon.",
+    "reasoning_type": "prediction reasoning"
+  },
+  {
+    "id": "pr_002",
+    "situation": "A student has not studied at all for the upcoming exam.",
+    "prediction": "The student may not perform well in the exam.",
+    "reasoning_type": "prediction reasoning"
+  },
+  {
+    "id": "pr_003",
+    "situation": "The toddler is running fast toward the wet floor.",
+    "prediction": "The toddler might slip and fall.",
+    "reasoning_type": "prediction reasoning"
+  },
+  {
+    "id": "pr_004",
+    "situation": "The phone battery is at 1% and no charger is available.",
+    "prediction": "The phone will shut down soon.",
+    "reasoning_type": "prediction reasoning"
+  },
+  {
+    "id": "pr_005",
+    "situation": "A balloon is near a cactus.",
+    "prediction": "The balloon might pop.",
+    "reasoning_type": "prediction reasoning"
+  }
+]

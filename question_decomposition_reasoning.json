@@ -1,0 +1,22 @@
+[
+  {
+    "id": "qd_001",
+    "question": "Who is the president of the country that won the 2018 FIFA World Cup?",
+    "decomposed_questions": [
+      "Which country won the 2018 FIFA World Cup?",
+      "Who is the president of that country?"
+    ],
+    "answer": "Emmanuel Macron (France won in 2018)",
+    "reasoning_type": "question decomposition reasoning"
+  },
+  {
+    "id": "qd_002",
+    "question": "What is the capital of the state where Silicon Valley is located?",
+    "decomposed_questions": [
+      "Where is Silicon Valley located?",
+      "What is the capital of that state?"
+    ],
+    "answer": "Sacramento (Silicon Valley is in California)",
+    "reasoning_type": "question decomposition reasoning"
+  }
+]

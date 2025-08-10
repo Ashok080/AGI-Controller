@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ser_001",
+    "situation": "Lena just failed an important exam.",
+    "question": "How is Lena likely feeling?",
+    "answer": "Sad"
+  },
+  {
+    "id": "ser_002",
+    "situation": "Tom\u2019s friend surprised him with a birthday cake.",
+    "question": "How might Tom react?",
+    "answer": "He might smile or feel happy"
+  }
+]

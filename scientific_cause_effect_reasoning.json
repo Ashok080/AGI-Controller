@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sci_001",
+    "situation": "A plant is placed in a dark room for two weeks.",
+    "question": "What will happen to the plant?",
+    "answer": "The plant will likely wilt or die due to lack of sunlight for photosynthesis.",
+    "reasoning_type": "scientific cause-effect"
+  },
+  {
+    "id": "sci_002",
+    "situation": "A metal rod is heated over a flame.",
+    "question": "What happens to the rod?",
+    "answer": "It expands due to thermal expansion.",
+    "reasoning_type": "scientific cause-effect"
+  },
+  {
+    "id": "sci_003",
+    "situation": "An ice cube is left out at room temperature.",
+    "question": "What will happen over time?",
+    "answer": "The ice will melt into water.",
+    "reasoning_type": "scientific cause-effect"
+  }
+]

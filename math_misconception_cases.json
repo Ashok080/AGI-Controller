@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mm_001",
+    "student_statement": "Multiplying a number by zero makes it bigger.",
+    "ai_correction": "Actually, multiplying any number by zero always gives zero, because you're taking zero groups of that number.",
+    "misconception_type": "Zero multiplication"
+  },
+  {
+    "id": "mm_002",
+    "student_statement": "A triangle with one 90-degree angle can\u2019t be a triangle.",
+    "ai_correction": "That\u2019s a common mix-up! A triangle can have a 90\u00b0 angle \u2014 it\u2019s called a right triangle.",
+    "misconception_type": "Triangle angle misunderstanding"
+  },
+  {
+    "id": "mm_003",
+    "student_statement": "Fractions with bigger denominators are always bigger.",
+    "ai_correction": "It\u2019s the opposite \u2014 1/4 is smaller than 1/2. Larger denominators mean the parts are smaller.",
+    "misconception_type": "Fraction size confusion"
+  },
+  {
+    "id": "mm_004",
+    "student_statement": "Division always makes numbers smaller.",
+    "ai_correction": "Not always. Dividing by a number less than 1 actually makes the result bigger.",
+    "misconception_type": "Division misunderstanding"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "su_001",
+    "image": "park_scene.jpg",
+    "question": "How many people are sitting on the bench?",
+    "answer": "Two"
+  },
+  {
+    "id": "su_002",
+    "image": "kitchen_view.png",
+    "question": "What appliance is next to the refrigerator?",
+    "answer": "Oven"
+  }
+]

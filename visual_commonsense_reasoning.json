@@ -1,0 +1,16 @@
+[
+  {
+    "id": "vcr_001",
+    "image_description": "A child is trying to reach for a cookie jar on a high shelf using a chair.",
+    "question": "Why might the child be standing on the chair?",
+    "answer": "Because the cookie jar is too high to reach without assistance.",
+    "reasoning_type": "visual commonsense reasoning"
+  },
+  {
+    "id": "vcr_002",
+    "image_description": "A person is holding an umbrella even though it is not raining.",
+    "question": "Why might the person still be using the umbrella?",
+    "answer": "The person might be using it to shield themselves from the sun.",
+    "reasoning_type": "visual commonsense reasoning"
+  }
+]

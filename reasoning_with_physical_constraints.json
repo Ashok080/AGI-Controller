@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rpc_001",
+    "situation": "You cannot fit a watermelon into a matchbox.",
+    "question": "Why?",
+    "answer": "Because the watermelon is much larger than the matchbox.",
+    "reasoning_type": "physical constraint reasoning"
+  },
+  {
+    "id": "rpc_002",
+    "situation": "You cannot walk through a wall.",
+    "question": "Why?",
+    "answer": "Because the wall is solid and your body cannot pass through it.",
+    "reasoning_type": "physical constraint reasoning"
+  }
+]

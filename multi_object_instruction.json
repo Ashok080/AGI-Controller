@@ -1,0 +1,28 @@
+[
+  {
+    "id": "mo_001",
+    "instruction": "Sort the fruits by color and then arrange them alphabetically within each color group.",
+    "objects": [
+      "apple",
+      "banana",
+      "blueberry",
+      "cherry",
+      "grape",
+      "kiwi",
+      "lemon"
+    ]
+  },
+  {
+    "id": "mo_002",
+    "instruction": "Group the tools based on their function (cutting, measuring, fastening) and then sort by size within each group.",
+    "objects": [
+      "screwdriver",
+      "tape measure",
+      "pliers",
+      "hammer",
+      "ruler",
+      "scissors",
+      "nail"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "msr_001",
+    "situation": "Solve for x: 2x + 3 = 7",
+    "question": "What is the value of x?",
+    "answer": "x = 2",
+    "reasoning_type": "math symbolic reasoning"
+  },
+  {
+    "id": "msr_002",
+    "situation": "If a\u00b2 + b\u00b2 = c\u00b2 and a = 3, b = 4",
+    "question": "What is the value of c?",
+    "answer": "c = 5 (by Pythagoras theorem)",
+    "reasoning_type": "math symbolic reasoning"
+  },
+  {
+    "id": "msr_003",
+    "situation": "The area of a circle is A = \u03c0r\u00b2. If r = 2",
+    "question": "What is the area of the circle?",
+    "answer": "A = 4\u03c0",
+    "reasoning_type": "math symbolic reasoning"
+  }
+]

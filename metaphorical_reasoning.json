@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mr_001",
+    "metaphor": "He has a heart of stone.",
+    "literal_meaning": "He is emotionally cold and unfeeling.",
+    "question": "What does 'heart of stone' suggest about a person?",
+    "answer": "They are unfeeling and show little compassion.",
+    "reasoning_type": "metaphorical reasoning"
+  },
+  {
+    "id": "mr_002",
+    "metaphor": "Time is a thief.",
+    "literal_meaning": "Time takes things away from us, like youth or opportunities.",
+    "question": "What is meant by saying 'Time is a thief'?",
+    "answer": "It means time can take away our moments and chances without us noticing.",
+    "reasoning_type": "metaphorical reasoning"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vsd_001",
+    "image_description": "A young girl is sitting under a tree reading a book while her dog sleeps beside her.",
+    "objects": [
+      "girl",
+      "tree",
+      "book",
+      "dog"
+    ],
+    "scene_type": "outdoor, peaceful, natural",
+    "inference": "The girl is enjoying a quiet moment in nature, and the dog feels safe and relaxed."
+  },
+  {
+    "id": "vsd_002",
+    "image_description": "A man in a business suit is standing in the rain without an umbrella, looking frustrated.",
+    "objects": [
+      "man",
+      "suit",
+      "rain",
+      "no umbrella"
+    ],
+    "scene_type": "urban, stressful, rainy",
+    "inference": "The man might be late for a meeting or caught off guard by the rain, causing his frustration."
+  }
+]

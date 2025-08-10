@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tool_001",
+    "tool": "Calculator",
+    "task": "Add 235 and 874",
+    "input": "235 + 874",
+    "output": "1109",
+    "explanation": "Used calculator to add two numbers quickly."
+  },
+  {
+    "id": "tool_002",
+    "tool": "Calendar",
+    "task": "Find the day of the week for July 22, 2025",
+    "input": "2025-07-22",
+    "output": "Tuesday",
+    "explanation": "Calendar used to map date to day of the week."
+  },
+  {
+    "id": "tool_003",
+    "tool": "Browser",
+    "task": "Search for 'current weather in Tokyo'",
+    "input": "current weather in Tokyo",
+    "output": "Partly Cloudy, 29\u00b0C",
+    "explanation": "Browser used to get real-time weather data."
+  },
+  {
+    "id": "tool_004",
+    "tool": "Clock",
+    "task": "Set a reminder at 7 PM",
+    "input": "Reminder for 7 PM",
+    "output": "Reminder set",
+    "explanation": "Clock/reminder tool used for scheduling tasks."
+  }
+]

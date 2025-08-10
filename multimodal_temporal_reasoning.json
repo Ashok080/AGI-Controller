@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mt_001",
+    "image_caption": "A man holding an umbrella in the rain.",
+    "audio_description": "Rain sounds with thunder in the background.",
+    "question": "What likely happened just before this moment?",
+    "answer": "It probably started raining suddenly, and he opened his umbrella.",
+    "reasoning_type": "multimodal temporal reasoning"
+  },
+  {
+    "id": "mt_002",
+    "image_caption": "An empty dinner plate with crumbs and a fork.",
+    "audio_description": "Faint clinking of utensils, followed by silence.",
+    "question": "What likely happened just before?",
+    "answer": "Someone just finished eating their meal.",
+    "reasoning_type": "multimodal temporal reasoning"
+  }
+]

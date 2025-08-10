@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vr_001",
+    "image_description": "A red cube is on top of a blue sphere.",
+    "question": "What color is the object below the red cube?",
+    "answer": "Blue"
+  },
+  {
+    "id": "vr_002",
+    "image_description": "There are three apples: one green, one red, and one yellow.",
+    "question": "How many apples are there?",
+    "answer": "Three"
+  }
+]

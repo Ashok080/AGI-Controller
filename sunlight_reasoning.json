@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sl_001",
+    "question": "Why do plants need sunlight to grow?",
+    "answer": "Because sunlight provides the energy for photosynthesis, the process by which plants make their food.",
+    "reasoning_type": "sunlight reasoning"
+  },
+  {
+    "id": "sl_002",
+    "question": "Why is it usually warmer during the day than at night?",
+    "answer": "Because the sun heats the Earth during the day, and at night there's no sunlight to provide warmth.",
+    "reasoning_type": "sunlight reasoning"
+  },
+  {
+    "id": "sl_003",
+    "question": "Why do people get sunburns after staying in the sun too long?",
+    "answer": "Because UV rays from sunlight can damage skin cells if exposed for extended periods without protection.",
+    "reasoning_type": "sunlight reasoning"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "vsr_001",
+    "scene": "A cat is sitting under a table. A cup is on the table.",
+    "question": "Where is the cat in relation to the cup?",
+    "answer": "Below the cup",
+    "reasoning_type": "visual scene reasoning"
+  },
+  {
+    "id": "vsr_002",
+    "scene": "A dog is in front of a red ball. Behind the ball is a chair.",
+    "question": "What is between the dog and the chair?",
+    "answer": "The red ball",
+    "reasoning_type": "visual scene reasoning"
+  },
+  {
+    "id": "vsr_003",
+    "scene": "A person is standing beside a tree. A bird is sitting on a branch above the person.",
+    "question": "Where is the bird in relation to the person?",
+    "answer": "Above the person",
+    "reasoning_type": "visual scene reasoning"
+  }
+]

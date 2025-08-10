@@ -1,0 +1,16 @@
+[
+  {
+    "id": "plan_001",
+    "situation": "You want to bake a cake.",
+    "question": "What steps should you follow to bake a cake?",
+    "answer": "Gather ingredients, mix them properly, pour into a pan, and bake in the oven.",
+    "reasoning_type": "planning reasoning"
+  },
+  {
+    "id": "plan_002",
+    "situation": "You need to get to the airport on time.",
+    "question": "How would you plan to ensure you catch your flight?",
+    "answer": "Check the flight time, plan your route, leave early, and account for traffic.",
+    "reasoning_type": "planning reasoning"
+  }
+]

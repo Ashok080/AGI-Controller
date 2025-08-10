@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pg_001",
+    "goal": "Run a marathon in six months.",
+    "plan": [
+      "Start with short runs 3 times a week.",
+      "Increase distance weekly.",
+      "Incorporate rest and cross-training days.",
+      "Follow a nutrition plan.",
+      "Participate in shorter races as milestones."
+    ]
+  },
+  {
+    "id": "pg_002",
+    "goal": "Save money for a new laptop in 3 months.",
+    "plan": [
+      "Set a monthly savings target.",
+      "Cut down on non-essential spending.",
+      "Track all expenses weekly.",
+      "Look for deals or discounts on laptops.",
+      "Put aside any extra earnings toward the goal."
+    ]
+  }
+]

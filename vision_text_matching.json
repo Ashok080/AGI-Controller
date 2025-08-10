@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vtm_001",
+    "image_description": "A child playing with a yellow balloon in a grassy field.",
+    "text": "A kid is playing with a balloon outdoors.",
+    "match": true
+  },
+  {
+    "id": "vtm_002",
+    "image_description": "A bowl of salad with tomatoes, lettuce, and cucumbers.",
+    "text": "A plate of spaghetti with tomato sauce.",
+    "match": false
+  }
+]

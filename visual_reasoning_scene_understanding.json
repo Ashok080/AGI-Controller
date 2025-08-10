@@ -1,0 +1,16 @@
+[
+  {
+    "id": "vr_001",
+    "image_description": "A man is holding an umbrella while standing in the rain. There is a puddle next to him.",
+    "question": "Why is the man holding an umbrella?",
+    "answer": "To protect himself from the rain.",
+    "reasoning_type": "visual reasoning / scene understanding"
+  },
+  {
+    "id": "vr_002",
+    "image_description": "A woman is putting on sunglasses while standing under a clear sky.",
+    "question": "Why is the woman wearing sunglasses?",
+    "answer": "To shield her eyes from the bright sunlight.",
+    "reasoning_type": "visual reasoning / scene understanding"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "rp_001",
+    "role": "Doctor",
+    "user_message": "I have a sore throat and fever. What should I do?",
+    "ai_response": "It sounds like you may have a throat infection. I recommend resting, staying hydrated, and visiting a clinic if symptoms persist more than 2 days.",
+    "goal": "Provide basic medical advice without diagnosing."
+  },
+  {
+    "id": "rp_002",
+    "role": "Teacher",
+    "user_message": "Can you explain what a fraction is?",
+    "ai_response": "Sure! A fraction represents a part of a whole. For example, 1/2 means one part out of two equal parts.",
+    "goal": "Explain math concepts clearly."
+  },
+  {
+    "id": "rp_003",
+    "role": "Banker",
+    "user_message": "How can I open a savings account?",
+    "ai_response": "To open a savings account, you\u2019ll need an ID, proof of address, and a minimum deposit. You can start online or visit a nearby branch.",
+    "goal": "Guide customer on account setup."
+  },
+  {
+    "id": "rp_004",
+    "role": "Travel Agent",
+    "user_message": "I want to visit Japan in spring. What are the best places?",
+    "ai_response": "Spring is great for cherry blossoms! Consider visiting Kyoto, Tokyo, and Nara. Don\u2019t miss the sakura season in late March to early April.",
+    "goal": "Help plan a seasonal vacation."
+  }
+]

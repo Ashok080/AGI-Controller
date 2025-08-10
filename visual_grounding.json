@@ -1,0 +1,24 @@
+[
+  {
+    "id": "vg_001",
+    "image": "kitchen_scene.jpg",
+    "query": "Find the red apple on the counter",
+    "bbox": [
+      120,
+      80,
+      60,
+      60
+    ]
+  },
+  {
+    "id": "vg_002",
+    "image": "street.jpg",
+    "query": "Locate the person wearing a yellow raincoat",
+    "bbox": [
+      300,
+      200,
+      90,
+      160
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mai_001",
+    "scenario": "Two robots must move a heavy box together",
+    "question": "How should they coordinate their actions?",
+    "answer": "They should synchronize lifting and agree on a direction to move in.",
+    "reasoning_type": "multi-agent interaction"
+  },
+  {
+    "id": "mai_002",
+    "scenario": "One player in a game pretends to be weak to deceive an opponent",
+    "question": "What type of reasoning is being used?",
+    "answer": "Strategic deception, anticipating the opponent\u2019s assumptions.",
+    "reasoning_type": "multi-agent interaction"
+  },
+  {
+    "id": "mai_003",
+    "scenario": "In a negotiation, each side wants the best deal",
+    "question": "What strategy can lead to a fair agreement?",
+    "answer": "Both sides can use win-win bargaining, where each side gains something valuable.",
+    "reasoning_type": "multi-agent interaction"
+  }
+]

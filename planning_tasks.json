@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pt_001",
+    "goal": "Plan a trip to Japan",
+    "steps": [
+      "Choose travel dates",
+      "Book flights",
+      "Reserve hotels",
+      "Make an itinerary (Tokyo, Kyoto, Hiroshima)",
+      "Pack essentials and documents"
+    ],
+    "constraints": [
+      "Budget under $2000",
+      "Travel duration: 10 days"
+    ],
+    "explanation": "Steps are logically ordered and respect time and budget constraints."
+  },
+  {
+    "id": "pt_002",
+    "goal": "Prepare for final exams",
+    "steps": [
+      "List all subjects and topics",
+      "Create a study schedule",
+      "Gather textbooks and notes",
+      "Review previous question papers",
+      "Take mock tests"
+    ],
+    "constraints": [
+      "Exams in 2 weeks",
+      "Minimum 3 hours study/day"
+    ],
+    "explanation": "Efficient time allocation and targeted practice to improve performance."
+  }
+]

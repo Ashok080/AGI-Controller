@@ -1,0 +1,16 @@
+[
+  {
+    "id": "phys_001",
+    "context": "A ball is thrown vertically upward with a speed of 20 m/s. It experiences a constant downward acceleration due to gravity of 10 m/s\u00b2.",
+    "question": "How high does the ball go before it starts to fall back down?",
+    "answer": "20 meters",
+    "reasoning_type": "multi-step physics reasoning"
+  },
+  {
+    "id": "phys_002",
+    "context": "A 2 kg block slides down a frictionless incline from a height of 10 meters. Use g = 10 m/s\u00b2.",
+    "question": "What is the speed of the block at the bottom of the incline?",
+    "answer": "14.14 m/s",
+    "reasoning_type": "multi-step physics reasoning"
+  }
+]

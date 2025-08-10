@@ -1,0 +1,16 @@
+[
+  {
+    "id": "msr_001",
+    "context": "Emma hid the toy in the box, but Liam saw her move it to the drawer.",
+    "question": "Where does Emma think the toy is?",
+    "answer": "Emma thinks the toy is in the drawer.",
+    "reasoning_type": "mental state reasoning"
+  },
+  {
+    "id": "msr_002",
+    "context": "Tom is afraid of dogs because he was bitten once.",
+    "question": "Why might Tom feel anxious around dogs?",
+    "answer": "Because he associates dogs with a past traumatic experience.",
+    "reasoning_type": "mental state reasoning"
+  }
+]

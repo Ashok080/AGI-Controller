@@ -1,0 +1,20 @@
+[
+  {
+    "id": "opr_001",
+    "question": "Why does a pencil have an eraser on one end?",
+    "answer": "So mistakes can be corrected easily without needing a separate tool.",
+    "reasoning_type": "object purpose reasoning"
+  },
+  {
+    "id": "opr_002",
+    "question": "Why do chairs have backs?",
+    "answer": "To provide support and make sitting more comfortable.",
+    "reasoning_type": "object purpose reasoning"
+  },
+  {
+    "id": "opr_003",
+    "question": "Why do cars have headlights?",
+    "answer": "To allow drivers to see the road at night or in low visibility conditions.",
+    "reasoning_type": "object purpose reasoning"
+  }
+]
