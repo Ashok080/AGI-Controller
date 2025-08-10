@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sr_001",
+    "scenario": "You're in a kitchen. You want to boil water.",
+    "steps": [
+      "Fill kettle",
+      "Place on stove",
+      "Turn on heat"
+    ],
+    "goal": "Boil water"
+  },
+  {
+    "id": "sr_002",
+    "scenario": "Find the shortest path from the living room to the bathroom",
+    "action_type": "navigation",
+    "tools": [
+      "floorplan.jpg"
+    ]
+  }
+]
