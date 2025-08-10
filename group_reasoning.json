@@ -1,0 +1,16 @@
+[
+  {
+    "id": "gr_001",
+    "group_situation": "A team of 4 people must lift a heavy object. Two members are injured.",
+    "question": "Can the team lift the object?",
+    "answer": "No, with only two healthy members, it's unlikely they can lift the heavy object.",
+    "reasoning_type": "group reasoning"
+  },
+  {
+    "id": "gr_002",
+    "group_situation": "Five friends decide to go hiking. One has a broken leg and another is afraid of heights.",
+    "question": "Will the whole group go hiking?",
+    "answer": "Unlikely, as two members are not fit or willing to hike.",
+    "reasoning_type": "group reasoning"
+  }
+]

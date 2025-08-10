@@ -1,0 +1,20 @@
+[
+  {
+    "id": "compgen_001",
+    "input": "The red cube is left of the green sphere. The green sphere is left of the blue pyramid. Where is the red cube?",
+    "output": "The red cube is the leftmost object.",
+    "reasoning_type": "spatial compositional reasoning"
+  },
+  {
+    "id": "compgen_002",
+    "input": "If 'dax' means jump and 'blicket' means run, what does 'dax and blicket' mean?",
+    "output": "It means jump and run.",
+    "reasoning_type": "symbolic composition"
+  },
+  {
+    "id": "compgen_003",
+    "input": "If A is faster than B, and B is faster than C, who is the slowest?",
+    "output": "C is the slowest.",
+    "reasoning_type": "transitive inference"
+  }
+]

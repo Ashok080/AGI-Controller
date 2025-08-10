@@ -1,0 +1,12 @@
+[
+  {
+    "id": "is_001",
+    "complex_instruction": "Utilize the aforementioned application to initiate the procedural download of the designated software package.",
+    "simplified_instruction": "Use the app to download the software."
+  },
+  {
+    "id": "is_002",
+    "complex_instruction": "Kindly ensure the authentication of your credentials prior to accessing the confidential database.",
+    "simplified_instruction": "Log in before opening the secure database."
+  }
+]

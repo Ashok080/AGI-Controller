@@ -1,0 +1,14 @@
+[
+  {
+    "id": "gi_001",
+    "instruction": "Write a story about a robot learning to love.",
+    "context": "Set in a futuristic world where robots have emotions.",
+    "goal": "Demonstrate empathy and emotional growth."
+  },
+  {
+    "id": "gi_002",
+    "instruction": "Generate a dialogue between a teacher and student discussing climate change.",
+    "context": "The student is skeptical, and the teacher is trying to explain scientific facts.",
+    "goal": "Encourage informative and persuasive dialogue generation."
+  }
+]

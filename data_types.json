@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dt_001",
+    "type": "Integer",
+    "description": "A whole number without decimals.",
+    "example": "age = 25",
+    "domain": "Programming"
+  },
+  {
+    "id": "dt_002",
+    "type": "String",
+    "description": "A sequence of characters used for text.",
+    "example": "name = \"Alice\"",
+    "domain": "Programming"
+  },
+  {
+    "id": "dt_003",
+    "type": "Boolean",
+    "description": "A data type that represents True or False.",
+    "example": "is_logged_in = True",
+    "domain": "Programming"
+  }
+]

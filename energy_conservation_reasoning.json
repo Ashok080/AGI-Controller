@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ecr_001",
+    "context": "A roller coaster starts at the top of a hill with potential energy. As it descends, it speeds up.",
+    "question": "Why does the roller coaster speed up as it goes down?",
+    "answer": "Because its potential energy is converted into kinetic energy.",
+    "reasoning_type": "energy conservation reasoning"
+  },
+  {
+    "id": "ecr_002",
+    "context": "A pendulum swings back and forth in the absence of air resistance.",
+    "question": "Why does the pendulum keep swinging?",
+    "answer": "Because energy is conserved, converting between potential and kinetic forms.",
+    "reasoning_type": "energy conservation reasoning"
+  }
+]

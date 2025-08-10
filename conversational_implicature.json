@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ci_001",
+    "conversation": "Person A: Are you coming to the meeting?\nPerson B: I have a dentist appointment at that time.",
+    "question": "What is Person B implying?",
+    "answer": "Person B is implying that they won\u2019t be able to attend the meeting.",
+    "reasoning_type": "conversational implicature"
+  },
+  {
+    "id": "ci_002",
+    "conversation": "Person A: Do you like the movie?\nPerson B: The popcorn was great.",
+    "question": "What is Person B implying?",
+    "answer": "Person B is implying that they didn\u2019t enjoy the movie.",
+    "reasoning_type": "conversational implicature"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "br_001",
+    "initial_belief": "All swans are white.",
+    "new_evidence": "A black swan is discovered in Australia.",
+    "revised_belief": "Not all swans are white.",
+    "question": "How should the belief be updated after the new evidence?",
+    "answer": "The belief should be revised to include the existence of black swans.",
+    "reasoning_type": "belief revision"
+  },
+  {
+    "id": "br_002",
+    "initial_belief": "Planets only orbit the Earth.",
+    "new_evidence": "Telescopic data shows planets orbiting the Sun.",
+    "revised_belief": "Planets orbit the Sun, not the Earth.",
+    "question": "What caused the belief change about planetary orbits?",
+    "answer": "New scientific evidence from telescopic observations.",
+    "reasoning_type": "belief revision"
+  }
+]

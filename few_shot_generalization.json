@@ -1,0 +1,34 @@
+[
+  {
+    "id": "fsg_001",
+    "shots": [
+      {
+        "input": "Translate 'hello' to Spanish",
+        "output": "hola"
+      },
+      {
+        "input": "Translate 'thank you' to Spanish",
+        "output": "gracias"
+      }
+    ],
+    "new_input": "Translate 'goodbye' to Spanish",
+    "expected_output": "adi\u00f3s",
+    "explanation": "Based on few examples, the model should generalize the task of translating to Spanish."
+  },
+  {
+    "id": "fsg_002",
+    "shots": [
+      {
+        "input": "Sort the list: [3, 1, 2]",
+        "output": "[1, 2, 3]"
+      },
+      {
+        "input": "Sort the list: [9, 5, 7]",
+        "output": "[5, 7, 9]"
+      }
+    ],
+    "new_input": "Sort the list: [4, 2, 8]",
+    "expected_output": "[2, 4, 8]",
+    "explanation": "Given two sorting examples, the model should infer the pattern and apply it to a new list."
+  }
+]

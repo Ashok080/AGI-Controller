@@ -1,0 +1,16 @@
+[
+  {
+    "id": "csap_001",
+    "situation": "A child spills juice on the floor.",
+    "question": "What is the most common next action?",
+    "answer": "Clean up the spilled juice.",
+    "reasoning_type": "common sense action prediction"
+  },
+  {
+    "id": "csap_002",
+    "situation": "The sun is setting and it's getting dark.",
+    "question": "What would a person likely do next?",
+    "answer": "Turn on the lights.",
+    "reasoning_type": "common sense action prediction"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cc_001",
+    "code": "def square(x):\n    return x * x",
+    "question": "What does this function do?",
+    "answer": "It returns the square of the input number."
+  },
+  {
+    "id": "cc_002",
+    "code": "nums = [1, 2, 3]\nprint(nums[-1])",
+    "question": "What will be printed?",
+    "answer": "3"
+  }
+]

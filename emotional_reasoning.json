@@ -1,0 +1,18 @@
+[
+  {
+    "id": "er_001",
+    "situation": "A child drops their ice cream cone.",
+    "emotion": "Sadness",
+    "question": "Why might the child feel sad?",
+    "answer": "Because they were enjoying the ice cream and now it\u2019s gone.",
+    "reasoning_type": "emotional reasoning"
+  },
+  {
+    "id": "er_002",
+    "situation": "Someone wins a gold medal in a race.",
+    "emotion": "Joy",
+    "question": "What might be the reason for their joy?",
+    "answer": "Because they achieved their goal and received recognition.",
+    "reasoning_type": "emotional reasoning"
+  }
+]

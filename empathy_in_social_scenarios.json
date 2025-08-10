@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ess_001",
+    "situation": "A child is left out during a group activity at school.",
+    "question": "How might the child feel?",
+    "answer": "The child might feel lonely, sad, or rejected.",
+    "reasoning_type": "empathy in social scenarios"
+  },
+  {
+    "id": "ess_002",
+    "situation": "Someone is speaking but keeps getting interrupted.",
+    "question": "What might they feel?",
+    "answer": "They could feel frustrated or disrespected.",
+    "reasoning_type": "empathy in social scenarios"
+  },
+  {
+    "id": "ess_003",
+    "situation": "A friend forgets your birthday.",
+    "question": "How might that make you feel?",
+    "answer": "You might feel disappointed or unimportant.",
+    "reasoning_type": "empathy in social scenarios"
+  }
+]

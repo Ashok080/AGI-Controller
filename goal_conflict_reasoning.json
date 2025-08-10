@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gcr_001",
+    "situation": "A student wants to study but also wants to go to a party",
+    "question": "What reasoning helps the student decide?",
+    "answer": "Weighing long-term goals (grades) against short-term pleasure (fun).",
+    "reasoning_type": "goal conflict"
+  },
+  {
+    "id": "gcr_002",
+    "situation": "Two team members disagree on project direction",
+    "question": "How can they resolve this conflict?",
+    "answer": "By aligning goals through discussion or compromise.",
+    "reasoning_type": "goal conflict"
+  },
+  {
+    "id": "gcr_003",
+    "situation": "An AI must choose between saving time or energy in a task",
+    "question": "How should it make the decision?",
+    "answer": "By evaluating which resource is more valuable based on the context.",
+    "reasoning_type": "goal conflict"
+  }
+]

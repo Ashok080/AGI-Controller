@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ev_001",
+    "question": "Is smoking harmful to health?",
+    "evidence": [
+      "According to the CDC, smoking causes cancer, heart disease, and stroke.",
+      "WHO reports that tobacco kills more than 8 million people each year."
+    ],
+    "answer": "Yes, smoking is harmful to health.",
+    "reasoning_type": "evidence-based reasoning"
+  },
+  {
+    "id": "ev_002",
+    "question": "Do vaccines help prevent infectious diseases?",
+    "evidence": [
+      "The CDC states that vaccines have greatly reduced or eliminated many infectious diseases.",
+      "WHO confirms that vaccines prevent over 20 life-threatening diseases."
+    ],
+    "answer": "Yes, vaccines help prevent infectious diseases.",
+    "reasoning_type": "evidence-based reasoning"
+  }
+]

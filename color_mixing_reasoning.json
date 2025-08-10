@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cm_001",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "question": "What color is formed when red and yellow are mixed?",
+    "answer": "Orange, because red and yellow are primary colors that blend to make orange.",
+    "reasoning_type": "color mixing reasoning"
+  },
+  {
+    "id": "cm_002",
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "question": "What color results from mixing blue and yellow?",
+    "answer": "Green, because blue and yellow are primary colors that mix to form green.",
+    "reasoning_type": "color mixing reasoning"
+  },
+  {
+    "id": "cm_003",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "question": "What do you get when you mix red and blue?",
+    "answer": "Purple, because red and blue make purple.",
+    "reasoning_type": "color mixing reasoning"
+  }
+]

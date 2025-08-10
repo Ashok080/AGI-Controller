@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cultural_001",
+    "situation": "In Japan, bowing is a common greeting.",
+    "question": "What does bowing typically signify?",
+    "answer": "Respect or a greeting",
+    "reasoning_type": "cultural context"
+  },
+  {
+    "id": "cultural_002",
+    "situation": "In India, people often remove shoes before entering a home.",
+    "question": "Why do they remove their shoes?",
+    "answer": "To show respect and maintain cleanliness",
+    "reasoning_type": "cultural context"
+  },
+  {
+    "id": "cultural_003",
+    "situation": "In Western countries, direct eye contact is common during conversations.",
+    "question": "What does it usually indicate?",
+    "answer": "Confidence or attentiveness",
+    "reasoning_type": "cultural context"
+  }
+]

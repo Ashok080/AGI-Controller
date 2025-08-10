@@ -1,0 +1,38 @@
+[
+  {
+    "id": "em_001",
+    "event": "You visited the zoo with your family.",
+    "details": {
+      "location": "City Zoo",
+      "people": [
+        "Mom",
+        "Dad",
+        "Sister"
+      ],
+      "activities": [
+        "Saw elephants",
+        "Fed giraffes",
+        "Ate ice cream"
+      ]
+    },
+    "memory_type": "personal"
+  },
+  {
+    "id": "em_002",
+    "event": "You attended a friend's birthday party.",
+    "details": {
+      "location": "Friend's house",
+      "people": [
+        "Alice",
+        "Bob",
+        "Charlie"
+      ],
+      "activities": [
+        "Cake cutting",
+        "Games",
+        "Dancing"
+      ]
+    },
+    "memory_type": "social"
+  }
+]

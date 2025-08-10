@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ir_001",
+    "situation": "A student studies late into the night.",
+    "question": "What is the student\u2019s intention?",
+    "answer": "To prepare for an important exam and achieve good grades.",
+    "reasoning_type": "intention reasoning"
+  },
+  {
+    "id": "ir_002",
+    "situation": "A person donates money to a charity.",
+    "question": "Why did the person donate?",
+    "answer": "They intended to help people in need and support a cause they care about.",
+    "reasoning_type": "intention reasoning"
+  }
+]

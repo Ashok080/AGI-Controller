@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cr_001",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text": "Did you finish the report?"
+      },
+      {
+        "speaker": "B",
+        "text": "Not yet, but I\u2019ll have it by tomorrow."
+      }
+    ],
+    "question": "Has B completed the report?",
+    "answer": "No, B has not completed the report yet.",
+    "reasoning_type": "conversation reasoning"
+  },
+  {
+    "id": "cr_002",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text": "Are you coming to the party tonight?"
+      },
+      {
+        "speaker": "B",
+        "text": "I have to work late, maybe next time."
+      }
+    ],
+    "question": "Will B attend the party?",
+    "answer": "No, B will not attend because they have to work late.",
+    "reasoning_type": "conversation reasoning"
+  }
+]

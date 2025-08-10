@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dr_001",
+    "diagram": "water_cycle_diagram.png",
+    "question": "What happens after evaporation?",
+    "answer": "Condensation"
+  },
+  {
+    "id": "dr_002",
+    "diagram": "food_chain_chart.jpg",
+    "question": "What is the primary consumer in the diagram?",
+    "answer": "Grasshopper"
+  }
+]

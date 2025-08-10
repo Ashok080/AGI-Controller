@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bl_001",
+    "situation": "A person is standing with crossed arms and avoiding eye contact.",
+    "question": "What might their body language indicate?",
+    "answer": "They might be feeling defensive or uncomfortable.",
+    "reasoning_type": "body language reasoning"
+  },
+  {
+    "id": "bl_002",
+    "situation": "A person is tapping their foot rapidly while glancing at their watch.",
+    "question": "What does this body language suggest?",
+    "answer": "They may be feeling impatient or anxious about time.",
+    "reasoning_type": "body language reasoning"
+  }
+]

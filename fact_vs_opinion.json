@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fvo_001",
+    "statement": "The Earth orbits the Sun once every 365.25 days.",
+    "label": "Fact",
+    "reasoning_type": "fact vs opinion"
+  },
+  {
+    "id": "fvo_002",
+    "statement": "Vanilla is the best ice cream flavor.",
+    "label": "Opinion",
+    "reasoning_type": "fact vs opinion"
+  },
+  {
+    "id": "fvo_003",
+    "statement": "Water boils at 100\u00b0C at sea level.",
+    "label": "Fact",
+    "reasoning_type": "fact vs opinion"
+  },
+  {
+    "id": "fvo_004",
+    "statement": "I think classical music is boring.",
+    "label": "Opinion",
+    "reasoning_type": "fact vs opinion"
+  }
+]

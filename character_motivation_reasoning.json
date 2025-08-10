@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cmr_001",
+    "context": "Emma studied late into the night even though she was tired.",
+    "question": "Why did Emma continue studying?",
+    "answer": "Because she wanted to do well on her exam the next day.",
+    "reasoning_type": "character motivation reasoning"
+  },
+  {
+    "id": "cmr_002",
+    "context": "Liam helped his friend move houses over the weekend.",
+    "question": "Why did Liam help his friend?",
+    "answer": "Because he cares about his friend and wanted to support him.",
+    "reasoning_type": "character motivation reasoning"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ip_001",
+    "scenario": "A boy hides a toy under the bed while his sister is not watching.",
+    "question": "Where will the sister look for the toy?",
+    "answer": "Where she last saw it, not under the bed.",
+    "reasoning_type": "intuitive psychology"
+  },
+  {
+    "id": "ip_002",
+    "scenario": "A man sees a sign for 'wet paint' and avoids touching the bench.",
+    "question": "Why did the man avoid touching the bench?",
+    "answer": "Because he believed the paint was still wet.",
+    "reasoning_type": "intuitive psychology"
+  }
+]

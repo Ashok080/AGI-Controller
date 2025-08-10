@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ld_001",
+    "premises": [
+      "All mammals are warm-blooded.",
+      "All whales are mammals."
+    ],
+    "question": "Are whales warm-blooded?",
+    "answer": "Yes, because whales are mammals and all mammals are warm-blooded.",
+    "reasoning_type": "logical deduction"
+  },
+  {
+    "id": "ld_002",
+    "premises": [
+      "Some fruits are sweet.",
+      "All mangoes are fruits."
+    ],
+    "question": "Can we say all mangoes are sweet?",
+    "answer": "No, because not all fruits are sweet\u2014only some are.",
+    "reasoning_type": "logical deduction"
+  }
+]

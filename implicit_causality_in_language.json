@@ -1,0 +1,16 @@
+[
+  {
+    "id": "icl_001",
+    "sentence": "Anna admired Beth because she was brave.",
+    "question": "Who is brave?",
+    "answer": "Beth",
+    "reasoning_type": "implicit causality"
+  },
+  {
+    "id": "icl_002",
+    "sentence": "Tom criticized Jerry because he was careless.",
+    "question": "Who was careless?",
+    "answer": "Jerry",
+    "reasoning_type": "implicit causality"
+  }
+]

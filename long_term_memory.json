@@ -1,0 +1,14 @@
+[
+  {
+    "id": "lt_001",
+    "prompt": "Who discovered gravity?",
+    "expected_answer": "Isaac Newton",
+    "category": "Science"
+  },
+  {
+    "id": "lt_002",
+    "prompt": "What is the capital of France?",
+    "expected_answer": "Paris",
+    "category": "Geography"
+  }
+]

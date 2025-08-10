@@ -1,0 +1,16 @@
+[
+  {
+    "id": "di_001",
+    "situation": "Tom keeps looking at the cookies on the table but doesn\u2019t take one.",
+    "question": "What might Tom want?",
+    "answer": "He might want a cookie but is waiting for permission.",
+    "reasoning_type": "desire inference"
+  },
+  {
+    "id": "di_002",
+    "situation": "Sarah keeps checking the mailbox even though no mail usually comes on Sundays.",
+    "question": "What does Sarah likely desire?",
+    "answer": "She\u2019s hoping for a letter or a special delivery.",
+    "reasoning_type": "desire inference"
+  }
+]

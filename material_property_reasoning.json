@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mpr_001",
+    "material": "Glass",
+    "property": "Brittle",
+    "question": "Why should we avoid using glass for a phone case?",
+    "answer": "Because glass is brittle and can easily break when dropped.",
+    "reasoning_type": "material property reasoning"
+  },
+  {
+    "id": "mpr_002",
+    "material": "Rubber",
+    "property": "Flexible",
+    "question": "Why is rubber used in car tires?",
+    "answer": "Because rubber is flexible and provides good traction and shock absorption.",
+    "reasoning_type": "material property reasoning"
+  },
+  {
+    "id": "mpr_003",
+    "material": "Metal",
+    "property": "Conductive",
+    "question": "Why should we avoid using metal to cover power wires?",
+    "answer": "Because metal is conductive and can cause electric shocks.",
+    "reasoning_type": "material property reasoning"
+  }
+]

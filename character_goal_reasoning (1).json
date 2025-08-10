@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cg_001",
+    "situation": "Maria studied late into the night.",
+    "question": "What might be her goal?",
+    "answer": "To do well on an upcoming exam",
+    "reasoning": "People often study at night to prepare for exams or important tests."
+  },
+  {
+    "id": "cg_002",
+    "situation": "John watered the plants early every morning.",
+    "question": "Why might John do this?",
+    "answer": "To keep the plants healthy",
+    "reasoning": "Watering plants regularly ensures they grow well and stay healthy."
+  }
+]

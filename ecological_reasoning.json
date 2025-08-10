@@ -1,0 +1,16 @@
+[
+  {
+    "id": "eco_001",
+    "context": "Deforestation in the Amazon rainforest is accelerating.",
+    "question": "How does this impact global climate?",
+    "answer": "It reduces carbon absorption, contributing to global warming.",
+    "reasoning_type": "ecological reasoning"
+  },
+  {
+    "id": "eco_002",
+    "context": "An oil spill occurs in the ocean near a coral reef.",
+    "question": "What could be the consequence for marine life?",
+    "answer": "Marine species may die due to toxicity, and coral reefs may be damaged.",
+    "reasoning_type": "ecological reasoning"
+  }
+]

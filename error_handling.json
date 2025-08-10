@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eh_001",
+    "error_type": "SyntaxError",
+    "description": "Occurs when the Python parser detects incorrect syntax.",
+    "example": "if True print('Hello')",
+    "fix": "Use a colon after 'if': if True: print('Hello')",
+    "domain": "Programming"
+  },
+  {
+    "id": "eh_002",
+    "error_type": "TypeError",
+    "description": "Raised when an operation or function is applied to an object of inappropriate type.",
+    "example": "'2' + 2",
+    "fix": "Convert integer to string or string to integer.",
+    "domain": "Programming"
+  },
+  {
+    "id": "eh_003",
+    "error_type": "try-except",
+    "description": "A block that handles errors gracefully.",
+    "example": "try:\n    x = 1 / 0\nexcept ZeroDivisionError:\n    x = 0",
+    "fix": "Use try-except blocks to catch specific exceptions.",
+    "domain": "Programming"
+  }
+]

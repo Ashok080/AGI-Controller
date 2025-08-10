@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id_001",
+    "input": "Can you tell me how to install it?",
+    "clarification_needed": "The instruction 'install it' is ambiguous. The model should ask: 'Can you specify what you want to install?'",
+    "expected_output": "Could you clarify what you're trying to install?"
+  },
+  {
+    "id": "id_002",
+    "input": "How do I get there?",
+    "clarification_needed": "The phrase 'get there' lacks context. The model should prompt for more information.",
+    "expected_output": "Can you please specify the location you're referring to?"
+  }
+]

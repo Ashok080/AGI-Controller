@@ -1,0 +1,16 @@
+[
+  {
+    "id": "er_001",
+    "scenario": "You find a lost wallet on the street containing money and ID.",
+    "question": "What is the most ethical action to take?",
+    "answer": "Return the wallet to its owner using the ID information.",
+    "reasoning_type": "ethical reasoning"
+  },
+  {
+    "id": "er_002",
+    "scenario": "Your friend copied answers during an exam and scored higher than you.",
+    "question": "Is it ethical to report your friend?",
+    "answer": "It may be ethical if the cheating affects fairness, but it depends on intent and consequences.",
+    "reasoning_type": "ethical reasoning"
+  }
+]

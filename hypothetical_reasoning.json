@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hr_001",
+    "scenario": "If the sun suddenly stopped shining, what would happen to Earth?",
+    "question": "Why would life be affected?",
+    "answer": "Without sunlight, temperatures would drop drastically and plants couldn't perform photosynthesis, disrupting the food chain.",
+    "reasoning_type": "hypothetical reasoning"
+  },
+  {
+    "id": "hr_002",
+    "scenario": "If everyone stopped using cars for a week, what would happen?",
+    "question": "Why would pollution levels change?",
+    "answer": "Because cars are a major source of air pollution, stopping their use would significantly reduce emissions temporarily.",
+    "reasoning_type": "hypothetical reasoning"
+  }
+]

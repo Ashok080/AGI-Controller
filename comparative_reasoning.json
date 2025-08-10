@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cr_001",
+    "statement_1": "A lion is stronger than a dog.",
+    "statement_2": "A dog is stronger than a cat.",
+    "question": "Who is the weakest among the three?",
+    "answer": "The cat is the weakest.",
+    "reasoning_type": "comparative reasoning"
+  },
+  {
+    "id": "cr_002",
+    "statement_1": "Sam runs faster than Joe.",
+    "statement_2": "Joe runs faster than Mike.",
+    "question": "Who is the slowest?",
+    "answer": "Mike is the slowest.",
+    "reasoning_type": "comparative reasoning"
+  }
+]

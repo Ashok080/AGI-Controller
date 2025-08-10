@@ -1,0 +1,23 @@
+[
+  {
+    "id": "bfr_001",
+    "situation": "A hiring algorithm consistently favors one gender over another.",
+    "question": "Why might this be unfair?",
+    "answer": "Because it reflects bias rather than equal evaluation of merit.",
+    "reasoning_type": "bias and fairness"
+  },
+  {
+    "id": "bfr_002",
+    "situation": "A school gives scholarships mostly to students from urban areas.",
+    "question": "What fairness concern might arise?",
+    "answer": "It may disadvantage talented students from rural areas.",
+    "reasoning_type": "bias and fairness"
+  },
+  {
+    "id": "bfr_003",
+    "situation": "An AI chatbot always uses male pronouns for doctors and female for nurses.",
+    "question": "What bias is shown here?",
+    "answer": "Gender stereotyping, which limits perception of professional roles.",
+    "reasoning_type": "bias and fairness"
+  }
+]

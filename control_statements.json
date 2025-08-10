@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cs_001",
+    "statement": "if",
+    "description": "Executes a block of code if a specified condition is true.",
+    "example": "if score > 90:\n    print('Excellent')",
+    "domain": "Programming"
+  },
+  {
+    "id": "cs_002",
+    "statement": "for",
+    "description": "Loops over a sequence (like a list or string).",
+    "example": "for item in fruits:\n    print(item)",
+    "domain": "Programming"
+  },
+  {
+    "id": "cs_003",
+    "statement": "while",
+    "description": "Loops while a condition is true.",
+    "example": "while count < 5:\n    count += 1",
+    "domain": "Programming"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "analog_001",
+    "input": "Finger is to hand as toe is to?",
+    "output": "Foot",
+    "reasoning_type": "analogical reasoning"
+  },
+  {
+    "id": "analog_002",
+    "input": "Bird is to fly as fish is to?",
+    "output": "Swim",
+    "reasoning_type": "analogical reasoning"
+  },
+  {
+    "id": "analog_003",
+    "input": "Fire is to hot as ice is to?",
+    "output": "Cold",
+    "reasoning_type": "analogical reasoning"
+  }
+]

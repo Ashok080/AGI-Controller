@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ep_001",
+    "situation": "You are wearing a head-mounted camera and see a knife on the kitchen counter.",
+    "question": "What are you likely about to do?",
+    "options": [
+      "Go to sleep",
+      "Cut vegetables",
+      "Watch TV"
+    ],
+    "answer": "Cut vegetables"
+  },
+  {
+    "id": "ep_002",
+    "situation": "You look down and see running shoes on your feet and a track in front of you.",
+    "question": "What are you doing?",
+    "answer": "Running or about to run"
+  }
+]

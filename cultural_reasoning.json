@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cr_001",
+    "question": "Why is Diwali celebrated in India?",
+    "answer": "Diwali is celebrated to honor the return of Lord Rama to Ayodhya after defeating Ravana, symbolizing the victory of light over darkness.",
+    "reasoning_type": "cultural reasoning"
+  },
+  {
+    "id": "cr_002",
+    "question": "Why do people in Japan bow to greet each other?",
+    "answer": "Bowing is a traditional Japanese way to show respect, gratitude, or apology. It reflects deep-rooted values of humility and politeness.",
+    "reasoning_type": "cultural reasoning"
+  },
+  {
+    "id": "cr_003",
+    "question": "Why is Thanksgiving celebrated in the United States?",
+    "answer": "Thanksgiving commemorates a harvest feast shared by Pilgrims and Native Americans, symbolizing gratitude and cooperation.",
+    "reasoning_type": "cultural reasoning"
+  }
+]

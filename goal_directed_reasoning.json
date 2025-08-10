@@ -1,0 +1,30 @@
+[
+  {
+    "id": "gd_001",
+    "goal": "Cook a bowl of rice",
+    "steps": [
+      "Measure rice",
+      "Rinse rice with water",
+      "Add rice and water to a pot",
+      "Turn on the stove",
+      "Cook until done"
+    ],
+    "question": "What is the first step to achieve this goal?",
+    "answer": "Measure rice",
+    "reasoning_type": "goal-directed"
+  },
+  {
+    "id": "gd_002",
+    "goal": "Send an email to your boss",
+    "steps": [
+      "Open your email client",
+      "Compose a new message",
+      "Enter the recipient's address",
+      "Write your message",
+      "Click send"
+    ],
+    "question": "What would happen if you forgot to enter the recipient\u2019s address?",
+    "answer": "The email would not be delivered.",
+    "reasoning_type": "goal-directed + counterfactual"
+  }
+]

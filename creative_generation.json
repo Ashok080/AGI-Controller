@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cg_001",
+    "prompt": "Write a short story about a robot that learns to paint.",
+    "response": "Once upon a time, a robot named Arto discovered a paintbrush in a scrapyard..."
+  },
+  {
+    "id": "cg_002",
+    "prompt": "Invent a new holiday celebrated by AI systems.",
+    "response": "SynthFest: Celebrated every March 1st, where AIs exchange encrypted compliments."
+  }
+]

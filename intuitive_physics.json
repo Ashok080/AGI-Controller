@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ip_001",
+    "scenario": "A ball placed on a sloped surface",
+    "question": "What will happen to the ball?",
+    "answer": "It will roll down the slope.",
+    "reasoning_type": "intuitive physics"
+  },
+  {
+    "id": "ip_002",
+    "scenario": "A block is placed on the edge of a table",
+    "question": "What might happen if it's nudged?",
+    "answer": "It may fall off the table.",
+    "reasoning_type": "intuitive physics"
+  },
+  {
+    "id": "ip_003",
+    "scenario": "A light object and a heavy object dropped from the same height",
+    "question": "What happens in a vacuum?",
+    "answer": "They fall at the same rate.",
+    "reasoning_type": "intuitive physics"
+  }
+]

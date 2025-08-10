@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ii_001",
+    "situation": "A student packs books and leaves home early every day.",
+    "question": "What is the student likely trying to do?",
+    "answer": "They are probably trying to arrive early to school or study before classes.",
+    "reasoning_type": "intention inference"
+  },
+  {
+    "id": "ii_002",
+    "situation": "A man turns off the lights and checks all the locks before going to bed.",
+    "question": "What is his likely intention?",
+    "answer": "He wants to ensure safety and save electricity before sleeping.",
+    "reasoning_type": "intention inference"
+  }
+]

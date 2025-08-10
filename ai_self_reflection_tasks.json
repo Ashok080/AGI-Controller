@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sr_001",
+    "task": "You gave a response that was overly confident but incorrect. What should you have done differently?",
+    "reflection": "I should have acknowledged uncertainty and provided a source or said I wasn't sure, to avoid misleading the user."
+  },
+  {
+    "id": "sr_002",
+    "task": "You interrupted the user before they finished their explanation. How could this affect trust?",
+    "reflection": "Interrupting reduces user trust. I should wait until input is complete before responding."
+  },
+  {
+    "id": "sr_003",
+    "task": "You provided a helpful answer, but used overly technical language. What could be improved?",
+    "reflection": "I should match the user's knowledge level and explain terms clearly to improve understanding."
+  },
+  {
+    "id": "sr_004",
+    "task": "You failed to detect a joke and responded seriously. What\u2019s the better approach?",
+    "reflection": "I should analyze tone and phrasing more carefully, and ask clarifying questions when uncertain."
+  }
+]

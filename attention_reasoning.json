@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ar_001",
+    "scene": "A teacher is speaking in front of the class, while one student is looking out the window.",
+    "question": "Who is likely not paying attention?",
+    "answer": "The student looking out the window.",
+    "reasoning_type": "attention reasoning"
+  },
+  {
+    "id": "ar_002",
+    "scene": "During a meeting, everyone is looking at the presenter except one person scrolling on their phone.",
+    "question": "Who is distracted?",
+    "answer": "The person scrolling on their phone.",
+    "reasoning_type": "attention reasoning"
+  }
+]

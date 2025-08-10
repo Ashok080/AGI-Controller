@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dm_001",
+    "situation": "You have two job offers: one with higher salary but longer commute, the other with a lower salary but flexible work hours and remote option.",
+    "factors_considered": [
+      "Salary",
+      "Commute time",
+      "Work-life balance",
+      "Career growth",
+      "Remote flexibility"
+    ],
+    "decision": "Chose the job with flexible hours and remote option for better work-life balance."
+  },
+  {
+    "id": "dm_002",
+    "situation": "You're deciding whether to buy a used car or a new electric bike.",
+    "factors_considered": [
+      "Cost",
+      "Environmental impact",
+      "Maintenance",
+      "Distance usually traveled",
+      "Long-term savings"
+    ],
+    "decision": "Decided to buy the electric bike for environmental and cost reasons."
+  }
+]

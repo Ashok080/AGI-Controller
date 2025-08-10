@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dr_001",
+    "situation": "You must wear a helmet to ride a bike.",
+    "question": "Can you ride a bike without wearing a helmet?",
+    "answer": "No, you must wear a helmet.",
+    "reasoning_type": "deontic reasoning"
+  },
+  {
+    "id": "dr_002",
+    "situation": "It is forbidden to smoke in this building.",
+    "question": "Is it allowed to smoke in the building?",
+    "answer": "No, it is forbidden.",
+    "reasoning_type": "deontic reasoning"
+  },
+  {
+    "id": "dr_003",
+    "situation": "You may take one free sample from the tray.",
+    "question": "Can you take three free samples?",
+    "answer": "No, only one is allowed.",
+    "reasoning_type": "deontic reasoning"
+  }
+]

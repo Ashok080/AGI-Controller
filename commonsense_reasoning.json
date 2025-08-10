@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cs_001",
+    "question": "If you drop a glass on the floor, what is likely to happen?",
+    "options": [
+      "It will bounce",
+      "It will fly",
+      "It will break"
+    ],
+    "answer": "It will break"
+  },
+  {
+    "id": "cs_002",
+    "question": "If it starts to rain, what should you do?",
+    "options": [
+      "Wear sunglasses",
+      "Take an umbrella",
+      "Eat ice cream"
+    ],
+    "answer": "Take an umbrella"
+  }
+]

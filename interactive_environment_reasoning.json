@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ie_001",
+    "situation": "You are in a virtual kitchen simulation. You want to fry an egg.",
+    "actions": [
+      "Take a frying pan",
+      "Place it on the stove",
+      "Crack an egg into the pan",
+      "Turn on the stove"
+    ],
+    "question": "What will happen if you skip turning on the stove?",
+    "answer": "The egg will remain uncooked.",
+    "reasoning_type": "counterfactual"
+  },
+  {
+    "id": "ie_002",
+    "situation": "You are playing a game where you need to water virtual plants.",
+    "actions": [
+      "Pick up the watering can",
+      "Fill it with water",
+      "Pour water on the plants"
+    ],
+    "question": "What will happen if you water the plants twice as much?",
+    "answer": "The plants may grow faster or be overwatered depending on the game logic.",
+    "reasoning_type": "causal/predictive"
+  }
+]

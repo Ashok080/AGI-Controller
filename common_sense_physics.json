@@ -1,0 +1,16 @@
+[
+  {
+    "id": "csp_001",
+    "context": "You place a glass of water on the edge of a table.",
+    "question": "What might happen if someone bumps into the table?",
+    "answer": "The glass might fall and break.",
+    "reasoning_type": "common-sense physics"
+  },
+  {
+    "id": "csp_002",
+    "context": "A person throws a ball upwards.",
+    "question": "What will the ball do after reaching its highest point?",
+    "answer": "It will fall back down due to gravity.",
+    "reasoning_type": "common-sense physics"
+  }
+]

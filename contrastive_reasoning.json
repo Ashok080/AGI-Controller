@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cr_001",
+    "item1": "Sun",
+    "item2": "Moon",
+    "question": "How are the Sun and the Moon different?",
+    "answer": "The Sun produces its own light while the Moon reflects the Sun's light.",
+    "reasoning_type": "contrastive reasoning"
+  },
+  {
+    "id": "cr_002",
+    "item1": "Cat",
+    "item2": "Dog",
+    "question": "How is a cat different from a dog?",
+    "answer": "Cats are more independent and usually smaller than dogs.",
+    "reasoning_type": "contrastive reasoning"
+  }
+]

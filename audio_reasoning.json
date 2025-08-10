@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ar_001",
+    "audio_description": "You hear a loud crash followed by glass shattering.",
+    "question": "What probably happened?",
+    "answer": "Something fell and broke"
+  },
+  {
+    "id": "ar_002",
+    "audio_description": "You hear a doorbell followed by footsteps.",
+    "question": "What might be happening?",
+    "answer": "Someone arrived at the door"
+  }
+]
